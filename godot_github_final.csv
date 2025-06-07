@@ -1,0 +1,36 @@
+title,github_url,stars,forks,last_updated,category,license,author
+2.5D Demo,https://github.com/godotengine/godot-demo-projects,6933,1833,2025-06-07T18:44:06Z,Demos,MIT,Godot Engine
+Virtual Joystick,https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot,838,87,2025-06-05T18:09:43Z,Tools,MIT,MarcoFazio
+Takin Game Template,https://github.com/TinyTakinTeller/TakinGodotTemplate,306,20,2025-06-07T10:02:32Z,Templates,MIT,TinyTakinTeller_
+GdScript2All,https://github.com/Lcbx/GdScript2All,205,7,2025-05-24T06:21:23Z,Tools,GPLv3,Lcbx
+TextEditor Integration,https://github.com/fenix-hub/godot-engine.text-editor,144,16,2025-05-29T22:28:17Z,Tools,MIT,fenix
+"""Immersive"" First Person Controller",https://github.com/Levox98/Godot_First-Person-Controller,43,2,2025-06-01T20:16:57Z,3D Tools,MIT,levox.
+RhythmNotifier - Sync Your Game to the Beat of the Music (Sound & Audio),https://github.com/michaelgundlach/rhythm_notifier,30,5,2025-05-09T06:03:41Z,Tools,MIT,jumpingmechanic
+DungeonCrawler3D,https://github.com/Rebelion-Board-game/DungonCrawler,24,2,2025-05-27T23:59:09Z,Scripts,CC0,slime3000fly
+"2, 4, 8 Godot-multidirectional-joystick",https://github.com/JstnJrg/Godot_multidirectional_joystick,16,0,2025-04-09T10:26:42Z,Tools,CC0,jstnjrg
+10 Simple Shader Examples (with Video),https://github.com/Goldenlion5648/ShaderExamplesWithVideo,14,6,2024-11-15T06:07:32Z,Demos,MIT,ThinkWithGames
+2.5D World Map with Selection,https://github.com/rafgro/godot25dmap,14,1,2025-05-13T21:34:46Z,Templates,MIT,RafGro
+Thirdperson Controller (.NET),https://github.com/vaporvee/gd-net-thirdpersoncontroller,12,3,2025-05-23T13:47:20Z,Templates,MIT,vaporvee
+Godot 3D Flight Control Tutorial,https://github.com/UtMan88/Godot3DFlightControls,11,0,2024-10-23T00:26:42Z,Demos,MIT,UtMan1988
+TODO 4,https://github.com/Vacui/TODO_4,11,0,2024-12-18T19:28:54Z,Tools,MIT,Vacui
+1$ gesture recogniser and recorder,https://github.com/blurymind/1dollar_gesture_recogniser,9,9,2023-12-25T23:29:50Z,2D Tools,MIT,blurymind
+2.5D Sprite Rotator,https://github.com/styr0x/2.5D-Sprite-Rotator--Godot-4-,9,0,2025-03-29T13:32:02Z,Scripts,MIT,styr0x
+Godot Atlas Cutter,https://github.com/newold3/Auto-Slice-Atlas,8,1,2025-01-01T13:44:00Z,2D Tools,MIT,newold33
+Alexandria - alexandria.netserver,https://github.com/BtheDestroyer/godot-alexandria,8,0,2024-12-07T23:50:37Z,Scripts,MIT,BryceDixon
+2D Camera Controller Singleton / with Dev Tools,https://github.com/jessejburton/GodotCameraController2D,8,1,2024-07-05T01:17:21Z,2D Tools,GPLv3,jessejburton
+2048 Demo,https://github.com/DeanNevan/Godot4-Beta7-Test1-2048,7,2,2023-10-29T14:01:11Z,Demos,MIT,DrunkBull
+Follow Parent,https://github.com/KarlTheCool/FollowParent,6,1,2024-03-25T23:09:27Z,Misc,MIT,KarlTheCool
+2090s Language System,https://github.com/NeroNekro/Godot_Language_System,6,0,2024-07-13T11:06:26Z,Scripts,Apache-2.0,NeroNekro
+GodotTouchCamera,https://github.com/DionHo/GodotTouchCamera,5,0,2024-06-01T13:58:33Z,Scripts,MIT,Dion
+Kenney's UI Audio,https://github.com/Loppansson/kenney-ui-audio-for-godot,3,0,2023-12-02T18:10:03Z,Misc,CC0,Lopano
+localization_with_google_sheet,https://github.com/palmasop/localization_with_google_sheet,3,0,2025-06-01T14:46:18Z,Tools,MIT,palmasop
+.mtl loader,https://github.com/Quakermann/.mtl-loader,3,1,2023-10-17T17:41:35Z,Materials,MIT,barnoftheyard
+Godot Tiled Tools,https://github.com/Frontrider/Godot-Tiled-Tools,2,0,2024-06-09T19:57:39Z,2D Tools,MIT,notman
+Visibility shortcut,https://github.com/Janders1800/godot-visibility-shortcut,2,0,2025-03-18T06:43:13Z,Misc,MIT,Janders
+10+ GDScript Tips Script (With Video),https://github.com/Goldenlion5648/GDScriptTipsForGodot,2,1,2024-01-03T16:18:27Z,Scripts,MIT,ThinkWithGames
+2090s Storage System,https://github.com/NeroNekro/Godot_Storage_System,2,0,2025-01-05T14:26:15Z,Scripts,Apache-2.0,NeroNekro
+Packed Scene Instantiater,https://github.com/Lazy-Rabbit-2001/godot-addon-packed-scene-instantiater,1,0,2025-03-08T18:14:05Z,Scripts,MIT,Yukana
+Godot-Spyglass,https://github.com/NovaDC/Godot-Spyglass,1,1,2024-11-04T15:12:23Z,2D Tools,MIT,NovaDC
+2D Camera Controller - Multitarget follow + FXs,https://github.com/AsyncStudio/godot-smartcamera-2d,1,0,2025-02-08T00:54:13Z,2D Tools,MIT,AndreMicheletti
+3d Maze Generator,https://github.com/mojoyup1528/maze_generator3D,0,0,2024-02-04T17:50:07Z,3D Tools,MIT,mojoyup1528
+2D Action Compute Resource,https://github.com/KijouShihona/2DActionComputeResource,0,0,2023-09-23T10:16:41Z,2D Tools,MIT,Kijou Shihona
