@@ -2,4 +2,179 @@ title,category,license,author,asset_url
 .nw Level Importer,2D Tools,MIT,irxzirox,https://godotengine.org/asset-library/asset/2252
 2D Dungeon Generator,2D Tools,MIT,halfwaywrong,https://godotengine.org/asset-library/asset/97
 2D Flipscreen Library with Scrolling,Templates,MIT,chucklepie,https://godotengine.org/asset-library/asset/952
+3D Course Editor,Templates,MIT,arlez80,https://godotengine.org/asset-library/asset/982
+abfi: Allegro Bitmap Font Importer,Tools,MIT,snoopdouglas,https://godotengine.org/asset-library/asset/598
+Airplane Mouse Controls,Demos,MIT,ed3800,https://godotengine.org/asset-library/asset/2420
+Arrows,2D Tools,MIT,lkokemohr,https://godotengine.org/asset-library/asset/47
+Audio Booth,Tools,MIT,Bitron,https://godotengine.org/asset-library/asset/373
+aviones (Planes),Demos,Proprietary,gamedevargentina,https://godotengine.org/asset-library/asset/3428
+Beholder,3D Tools,Apache-2.0,mburkard,https://godotengine.org/asset-library/asset/2311
+Beholder,3D Tools,MIT,mburkard,https://godotengine.org/asset-library/asset/799
+Better Processes,Tools,MPL-2.0,GreenFox,https://godotengine.org/asset-library/asset/1878
+Bilinear Filtered Scaling,Shaders,MIT,ntfwc,https://godotengine.org/asset-library/asset/270
+Boids (2D/3D flocking),Tools,MIT,yusdacra,https://godotengine.org/asset-library/asset/3284
+BSON for Godot,Tools,MIT,Zakarya,https://godotengine.org/asset-library/asset/3730
+BumpToNormal,Tools,MIT,Jitnaught,https://godotengine.org/asset-library/asset/2690
+Character generator importer tool,2D Tools,MIT,BananaHolograma,https://godotengine.org/asset-library/asset/2862
+Character Outline,3D Tools,MIT,arlez80,https://godotengine.org/asset-library/asset/1147
+Chess,Projects,MIT,CatAClock,https://godotengine.org/asset-library/asset/1863
+Cloud shader,Shaders,MIT,arlez80,https://godotengine.org/asset-library/asset/797
+CodeScope,Tools,MIT,CodeScope,https://godotengine.org/asset-library/asset/3550
+Color Calibrator,3D Tools,CC0,MrMinimal,https://godotengine.org/asset-library/asset/1064
+Compass,3D Tools,MIT,GameDevOne,https://godotengine.org/asset-library/asset/1466
+CORE Framework,Tools,AGPLv3,JeremyStarTM,https://godotengine.org/asset-library/asset/2596
+CReverter (Composite Reverter aka Undo/Redo),Scripts,MIT,svetogam,https://godotengine.org/asset-library/asset/3092
+CRT Monitor Shader,Shaders,MIT,arlez80,https://godotengine.org/asset-library/asset/821
+CSConnector (Contextual Signal/Setup Connector),Scripts,MIT,svetogam,https://godotengine.org/asset-library/asset/3471
+CSGMesher,3D Tools,MIT,dbat,https://godotengine.org/asset-library/asset/2042
+CSGToMesh,3D Tools,MIT,Jitnaught,https://godotengine.org/asset-library/asset/2685
+CSLocator (Contextual Service Locator),Scripts,MIT,svetogam,https://godotengine.org/asset-library/asset/2984
+Cybs Gameunit,Scripts,MIT,Cyberrebell,https://godotengine.org/asset-library/asset/1649
+DaemonSide,Projects,MIT,AvianGames,https://godotengine.org/asset-library/asset/1731
+Data Folder Deleter,Scripts,GPLv3,Kutay GÃ¼ler,https://godotengine.org/asset-library/asset/673
+Delta Rollback,Scripts,MIT,BimDav,https://godotengine.org/asset-library/asset/3107
+DigiVGamepad,Tools,MIT,digitecnology,https://godotengine.org/asset-library/asset/50
+DigiVR,3D Tools,MIT,digitecnology,https://godotengine.org/asset-library/asset/49
+Dockable Output,Tools,MIT,Moonbrick Games,https://godotengine.org/asset-library/asset/499
+Dolly Camera Controller,3D Tools,MIT,The Spoonful One,https://godotengine.org/asset-library/asset/3927
+Doodly Jumping,Demos,MIT,Clocktown,https://godotengine.org/asset-library/asset/277
+Draftsman,Scripts,MIT,LuckyB45tard,https://godotengine.org/asset-library/asset/854
+dual quaternion skinning demo,Demos,MIT,firebeetle,https://godotengine.org/asset-library/asset/2062
+Dynamic Gravity Kinematic Character,Demos,MIT,Felipe Moura,https://godotengine.org/asset-library/asset/546
+DynamicWater2D,2D Tools,MIT,yusdacra,https://godotengine.org/asset-library/asset/3246
+Easy Savefiles,Misc,MIT,kanera,https://godotengine.org/asset-library/asset/3201
+EngA - Engine Agnostic Framework,Tools,GPLv3,amarinat,https://godotengine.org/asset-library/asset/3623
+Export On Save,Tools,MIT,dsnopek,https://godotengine.org/asset-library/asset/1206
+Finite Stack Machine,Scripts,MIT,Reefpirate,https://godotengine.org/asset-library/asset/237
+Finite State Machine,Scripts,MIT,HexagonNico,https://godotengine.org/asset-library/asset/1332
+Fire Shader,Shaders,MIT,arlez80,https://godotengine.org/asset-library/asset/840
+Flipbook Particles,3D Tools,AGPLv3,MrMinimal,https://godotengine.org/asset-library/asset/1278
+FPS Hands,3D Tools,GPLv3,Bytez,https://godotengine.org/asset-library/asset/3715
+Gameboard SDK Plugin,Scripts,ISC,PixelThief,https://godotengine.org/asset-library/asset/2849
+GDCastleDB,Tools,MIT,arlez80,https://godotengine.org/asset-library/asset/1547
+GDCastleDB for Godot Engine 4,Scripts,MIT,arlez80,https://godotengine.org/asset-library/asset/1739
+GDFormat,Tools,MIT,Bodo,https://godotengine.org/asset-library/asset/1057
+gdods,Scripts,MIT,jelle,https://godotengine.org/asset-library/asset/297
+GDPeg,Scripts,MIT,arlez80,https://godotengine.org/asset-library/asset/680
+GDPeg for Godot Engine 4,Scripts,MIT,arlez80,https://godotengine.org/asset-library/asset/1738
+GDScript Input Field Plugin,Tools,MIT,blujai831,https://godotengine.org/asset-library/asset/2246
+GDScript Parsers,Scripts,MIT,arlez80,https://godotengine.org/asset-library/asset/1335
+gdunzip,Scripts,MIT,jelle,https://godotengine.org/asset-library/asset/298
+Gemini Protocol,Scripts,MIT,mocha,https://godotengine.org/asset-library/asset/3220
+godot - backpacks,Projects,MIT,LHM,https://godotengine.org/asset-library/asset/2363
+Godot .NET Scene-Oriented Unit Test,Tools,MIT,thremtopod,https://godotengine.org/asset-library/asset/2811
+Godot Bone Editor,3D Tools,MIT,arlez80,https://godotengine.org/asset-library/asset/864
+Godot Coroutines (Unity like),Scripts,MIT,Apophis Software,https://godotengine.org/asset-library/asset/2263
+Godot Essentials,Templates,MIT,BananaHolograma,https://godotengine.org/asset-library/asset/2819
+Godot file auto-open,Tools,MIT,pahool,https://godotengine.org/asset-library/asset/3679
+Godot Finder,Tools,Testing,josaid,https://godotengine.org/asset-library/asset/1382
+Godot MIDI Player,Scripts,MIT,arlez80,https://godotengine.org/asset-library/asset/240
+Godot MIDI Player for Godot Engine 4,Scripts,MIT,arlez80,https://godotengine.org/asset-library/asset/1667
+Godot Mod Player,Scripts,MIT,arlez80,https://godotengine.org/asset-library/asset/841
+Godot Mod Player for Godot Engine 4,Scripts,MIT,arlez80,https://godotengine.org/asset-library/asset/1666
+Godot Node FSM Plugin [Finite State Machine],Tools,MIT,sunetraalex,https://godotengine.org/asset-library/asset/383
+Godot Open Dialogue,Projects,CC-BY-4.0,jsena,https://godotengine.org/asset-library/asset/302
+Godot Rollback Netcode (Godot 3),Scripts,MIT,dsnopek,https://godotengine.org/asset-library/asset/1165
+Godot Rollback Netcode (Godot 4),Scripts,MIT,dsnopek,https://godotengine.org/asset-library/asset/2450
+Godot VN,2D Tools,MIT,Code_Man,https://godotengine.org/asset-library/asset/172
+godot-queue,Tools,MIT,anyreso,https://godotengine.org/asset-library/asset/3972
+Godot-Stuff ECS 3.2,Scripts,MIT,paulhocker,https://godotengine.org/asset-library/asset/750
+Godot-Stuff ECS 3.3,Scripts,MIT,paulhocker,https://godotengine.org/asset-library/asset/1677
+Godot-Stuff ECS 3.4,Scripts,MIT,paulhocker,https://godotengine.org/asset-library/asset/1679
+Godot-Stuff ECS 3.5,Scripts,MIT,paulhocker,https://godotengine.org/asset-library/asset/1678
+Godot-Stuff ECS 4.0,Scripts,MIT,paulhocker,https://godotengine.org/asset-library/asset/1680
+Godot-Stuff Logger 3.0,Scripts,MIT,paulhocker,https://godotengine.org/asset-library/asset/363
+Godot-Stuff Logger 3.1,Scripts,MIT,paulhocker,https://godotengine.org/asset-library/asset/362
+Godot-Stuff Logger 3.2,Scripts,MIT,paulhocker,https://godotengine.org/asset-library/asset/618
+Godot-Stuff Logger 3.3,Scripts,MIT,paulhocker,https://godotengine.org/asset-library/asset/1703
+Godot-Stuff Logger 3.4,Scripts,MIT,paulhocker,https://godotengine.org/asset-library/asset/1704
+Godot-Stuff Logger 3.5,Scripts,MIT,paulhocker,https://godotengine.org/asset-library/asset/1705
+Godot-Stuff Logger 4.0,Scripts,MIT,paulhocker,https://godotengine.org/asset-library/asset/1688
+Godot-Stuff Project Manager,Tools,MIT,paulhocker,https://godotengine.org/asset-library/asset/731
+GodotBoy GDExtention,Tools,MIT,GreenFox,https://godotengine.org/asset-library/asset/2920
+Google Maps,Scripts,MIT,paperweights,https://godotengine.org/asset-library/asset/3042
+Gopilot Assist,Tools,GPLv3,Smorty,https://godotengine.org/asset-library/asset/3852
+Gopilot Utils (LLMs and embedding),Misc,MIT,Smorty,https://godotengine.org/asset-library/asset/3504
+HathoraHTTPRequest,Tools,MIT,arkelen,https://godotengine.org/asset-library/asset/2071
+HathoraHTTPRequest,Tools,MIT,arkelen,https://godotengine.org/asset-library/asset/2075
+Hexagonal Grid Utils,Scripts,MIT,Tacure,https://godotengine.org/asset-library/asset/2682
+Hexgrid Mono,Scripts,MIT,TheKrutz,https://godotengine.org/asset-library/asset/1116
+HTML5 File Dialogs,Scripts,MIT,mocha,https://godotengine.org/asset-library/asset/2848
+HTML5 Popups,Scripts,MIT,mocha,https://godotengine.org/asset-library/asset/2863
+HTTPEventSource for Server Sent Events,Misc,MIT,DaGammla,https://godotengine.org/asset-library/asset/3316
+Inputty,Scripts,CC0,MxSophie,https://godotengine.org/asset-library/asset/2523
+Interior Mapping Shader,Shaders,MIT,arlez80,https://godotengine.org/asset-library/asset/390
+JSON Beautifier,Scripts,MPL-2.0,Yeldham,https://godotengine.org/asset-library/asset/157
+Kanban,Misc,MIT,SwePopper,https://godotengine.org/asset-library/asset/178
 Kenney Prototype Tools,3D Tools,CC0,MrMinimal,https://godotengine.org/asset-library/asset/1086
+Kenney Spritesheet Importer,2D Tools,MIT,iseesharp83,https://godotengine.org/asset-library/asset/2875
+Maze Generator using TileMapLayer,Demos,MIT,megamichi,https://godotengine.org/asset-library/asset/3763
+MetaMultimesh3D,3D Tools,MIT,dbat,https://godotengine.org/asset-library/asset/2043
+Mosaic Shader,Shaders,MIT,arlez80,https://godotengine.org/asset-library/asset/391
+Movie Maker Timestamp,Tools,MIT,timkrief,https://godotengine.org/asset-library/asset/2878
+Multithreaded VisualServer Multimesh Grass,Demos,MIT,Robert7301201,https://godotengine.org/asset-library/asset/743
+Node Based Finite State Machine,Scripts,MIT,fubus,https://godotengine.org/asset-library/asset/1589
+Node Based Finite State Machine 4,Scripts,MIT,fubus,https://godotengine.org/asset-library/asset/2555
+Notes Tab,Tools,GPLv3,Yeldham,https://godotengine.org/asset-library/asset/261
+OptiScene,3D Tools,MIT,Smorty,https://godotengine.org/asset-library/asset/3150
+Placeholder Search,Tools,MIT,lkokemohr,https://godotengine.org/asset-library/asset/90
+Platformer 2D,Demos,GPLv3,CesarLeon,https://godotengine.org/asset-library/asset/287
+Playcademy,Scripts,MIT,hbauer,https://godotengine.org/asset-library/asset/3998
+Polygon2D Editor,2D Tools,MIT,shli,https://godotengine.org/asset-library/asset/2306
+Polygon2d Generator,2D Tools,MIT,vyshliy,https://godotengine.org/asset-library/asset/790
+PolygonCircleGen,3D Tools,MIT,Jitnaught,https://godotengine.org/asset-library/asset/2684
+Post Effect Outline Shader,Shaders,MIT,arlez80,https://godotengine.org/asset-library/asset/902
+Pretty Primitive,3D Tools,MIT,tomsart,https://godotengine.org/asset-library/asset/1319
+Projectiles2D,2D Tools,MIT,LisekGagatek,https://godotengine.org/asset-library/asset/1977
+Projectiles2D,2D Tools,MIT,LisekGagatek,https://godotengine.org/asset-library/asset/2001
+Quality First Person Controller C#,3D Tools,MIT,Zakarya,https://godotengine.org/asset-library/asset/2892
+Quality First Person Controller v2,3D Tools,MIT,Zakarya,https://godotengine.org/asset-library/asset/2418
+Quicktweens,2D Tools,MIT,Cole Dingo,https://godotengine.org/asset-library/asset/3177
+Rabid Hole Punch,Tools,MIT,Rabid,https://godotengine.org/asset-library/asset/1052
+Random Audio Stream Player,Tools,MIT,timkrief,https://godotengine.org/asset-library/asset/651
+RandomTimer,Tools,MIT,Dritic,https://godotengine.org/asset-library/asset/1762
+ReCorner Correction,Scripts,MIT,SuperBenjaBros,https://godotengine.org/asset-library/asset/3969
+REPL - Read-Eval-Print Loop toplevel,Tools,AGPLv3,Beuc,https://godotengine.org/asset-library/asset/857
+Resource Wrangler,Tools,MIT,dbat,https://godotengine.org/asset-library/asset/1994
+RNGTools,Tools,MIT,flyingpimonster,https://godotengine.org/asset-library/asset/830
+RTS 3D Camera,3D Tools,MIT,sehgel,https://godotengine.org/asset-library/asset/843
+Run instance,Tools,MIT,GhostNr1,https://godotengine.org/asset-library/asset/269
+Save and Load Template,Templates,MIT,Shargon,https://godotengine.org/asset-library/asset/1182
+Scene Transition,Tools,MIT,luisboch,https://godotengine.org/asset-library/asset/503
+Side-Scrolling-Shooter,Templates,Proprietary,CatAClock,https://godotengine.org/asset-library/asset/3729
+Simple Airplane Controller (models included!),3D Tools,MIT,matias.lavik,https://godotengine.org/asset-library/asset/2595
+SimpleState,Scripts,MIT,AuraTheEnby,https://godotengine.org/asset-library/asset/1578
+Slime Shooter - Godot & FOSS Learning Project,Projects,GPLv3,FreedCreative,https://godotengine.org/asset-library/asset/544
+Snap Placement System,Templates,MIT,kinami,https://godotengine.org/asset-library/asset/2226
+Snopek State Machine,Scripts,MIT,dsnopek,https://godotengine.org/asset-library/asset/885
+Sound Manager,Tools,MIT,Xecestel,https://godotengine.org/asset-library/asset/361
+Sprite Mask,2D Tools,MIT,Quantum Code,https://godotengine.org/asset-library/asset/652
+Sprite2D Rect Editor,2D Tools,MIT,andrej88,https://godotengine.org/asset-library/asset/2010
+"Sticky Scribe - A flexible TODO list, task manager, bug tracker, and notes tool for Godot 3",Tools,MIT,ace24713,https://godotengine.org/asset-library/asset/4048
+"Sticky Scribe - A flexible TODO list, task manager, bug tracker, and notes tool for Godot 4",Tools,MIT,ace24713,https://godotengine.org/asset-library/asset/4027
+STN LCD-esque Shader,Shaders,MIT,arlez80,https://godotengine.org/asset-library/asset/820
+Stopwatch,Tools,MIT,graskaas,https://godotengine.org/asset-library/asset/322
+Stylish Menu Demo,Projects,MIT,Cole Dingo,https://godotengine.org/asset-library/asset/3176
+SubViewportContainerStretch,Scripts,MIT,Royerson,https://godotengine.org/asset-library/asset/2099
+Sweep,2D Tools,Testing,derinasir,https://godotengine.org/asset-library/asset/1456
+Taffer's Loader,Scripts,CC-BY-SA-4.0,Taffer,https://godotengine.org/asset-library/asset/3078
+Taffer's Logger,Scripts,CC-BY-SA-4.0,Taffer,https://godotengine.org/asset-library/asset/3061
+Tappy Plane,Demos,GPLv3,CesarLeon,https://godotengine.org/asset-library/asset/272
+ThrowOut,3D Tools,MIT,tomsart,https://godotengine.org/asset-library/asset/2603
+TortoiseHg Mercurial Integration,Tools,MIT,lkokemohr,https://godotengine.org/asset-library/asset/46
+TrenchBroom Loader,3D Tools,MIT,Miss,https://godotengine.org/asset-library/asset/1265
+Twin Stick 2D Shoot Em Up,Templates,Proprietary,CatAClock,https://godotengine.org/asset-library/asset/1659
+usefulScripts,Misc,MIT,jrkb,https://godotengine.org/asset-library/asset/3519
+Vircle,Tools,MIT,Smorty,https://godotengine.org/asset-library/asset/2950
+Virtual Analog,Tools,MIT,CSGames18,https://godotengine.org/asset-library/asset/355
+Waypoint Map,Misc,MIT,vertexarray,https://godotengine.org/asset-library/asset/815
+WCSpawnPool,Tools,MIT,nonchip,https://godotengine.org/asset-library/asset/3050
+Weather System,3D Tools,MIT,matias.lavik,https://godotengine.org/asset-library/asset/2601
+WebRTC and Nakama addon,Scripts,MIT,dsnopek,https://godotengine.org/asset-library/asset/884
+WPGTK Theme,Misc,MIT,bellsworne,https://godotengine.org/asset-library/asset/3630
+XR Browser (XR Fragments compatible),Templates,MPL-2.0,coderofsalvation,https://godotengine.org/asset-library/asset/2995
+XRController Midi Player,Tools,MIT,Cyberrebell,https://godotengine.org/asset-library/asset/1536
+XSM 2.0 - eXtended State Machine,Tools,MIT,atn,https://godotengine.org/asset-library/asset/1504
+XSM 4,Tools,MIT,atn,https://godotengine.org/asset-library/asset/1546
+XSM: eXtended State Machine,Tools,MIT,atn,https://godotengine.org/asset-library/asset/769
+Your Buil,Tools,MIT,svetogam,https://godotengine.org/asset-library/asset/3436

@@ -29,3 +29,552 @@ title,category,license,author,asset_url,github_url
 2D Particles Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/118,https://github.com/godotengine/godot-demo-projects
 2D Physics Platformer Demo (RigidBody),Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/119,https://github.com/godotengine/godot-demo-projects
 2D Physics Platformer Demo (Rigidbody) CS,Demos,MIT,MugenTwo,https://godotengine.org/asset-library/asset/553,https://github.com/MugenTwo/2d-platformer-demo-cs
+2D Platformer Demo (KinematicBody),Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/120,https://github.com/godotengine/godot-demo-projects
+2D Platformer Pathfinding Tool,2D Tools,MIT,Lestavol,https://godotengine.org/asset-library/asset/4061,https://github.com/Thinh-T-Diep/2D-platformer-pathfinding-godot
+2D Role Playing Game Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/520,https://github.com/godotengine/godot-demo-projects
+2D Screen-Space Shaders Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/122,https://github.com/godotengine/godot-demo-projects
+2D Sprite Shaders Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/522,https://github.com/godotengine/godot-demo-projects
+2D Tools,2D Tools,MIT,KoppiGames,https://godotengine.org/asset-library/asset/3368,https://github.com/KoppiGames/godot-tools
+3D Animated Robot,Misc,CC0,Golden,https://godotengine.org/asset-library/asset/344,https://github.com/awindahl/Animated-3D-Robot
+3D FPP Interaction Template,Templates,MIT,RadMatt,https://godotengine.org/asset-library/asset/195,https://github.com/TheRadMatt/3D-FPP-Interaction-Demo
+3D Hover canvasitem,Shaders,MIT,sivabalan,https://godotengine.org/asset-library/asset/3874,https://github.com/knowercoder/3D-Hover-Shader
+3D in 2D Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/128,https://github.com/godotengine/godot-demo-projects
+3D Inverse Kinematics Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/523,https://github.com/godotengine/godot-demo-projects
+3D Kinematic Character Demo CS,Demos,MIT,MugenTwo,https://godotengine.org/asset-library/asset/685,https://github.com/MugenTwo/3d-kinematic-character-demo-cs
+3D Material Testers Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/123,https://github.com/godotengine/godot-demo-projects
+3D Navmesh Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/124,https://github.com/godotengine/godot-demo-projects
+3D Platformer - Starter,Templates,MIT,Silver Demon Studios,https://godotengine.org/asset-library/asset/2191,https://github.com/SilverDemons-PK/3D-Platformer-Kit
+3D Platformer Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/125,https://github.com/godotengine/godot-demo-projects
+3D print shader,Shaders,Unlicense,q8geek,https://godotengine.org/asset-library/asset/2437,https://github.com/q8geek/Godot-4-3D-Print-Shader
+3D Tiles For Godot,3D Tools,Apache-2.0,BattleRoadLabs,https://godotengine.org/asset-library/asset/3976,https://github.com/Battle-Road-Labs/3D-Tiles-For-Godot
+3D Trail in C#,Scripts,Unlicense,q8geek,https://godotengine.org/asset-library/asset/2150,https://github.com/q8geek/Godot-4-Basic-3D-Trail
+3D Truck Town Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/524,https://github.com/godotengine/godot-demo-projects
+766 Color Palette Swap Shader,Shaders,MIT,AlbGD,https://godotengine.org/asset-library/asset/671,https://github.com/AlbertoLuviano/SHADER---PaletteSwap766
+A Star 2D Grid Node,2D Tools,MIT,Firemanarg,https://godotengine.org/asset-library/asset/1799,https://github.com/Firemanarg/godot-astar-2d-grid-node
+AABB Static BoxCollider from Mesh,3D Tools,MIT,rybadour,https://godotengine.org/asset-library/asset/3059,https://github.com/Rybadour/AABB-Box-from-Mesh-Godot-Plugin
+Achievement System,Tools,MIT,5FB5,https://godotengine.org/asset-library/asset/1004,https://github.com/5FB5/gd-achievements
+Acro's Hitboxes,2D Tools,MIT,acroprojects,https://godotengine.org/asset-library/asset/1198,https://github.com/AcroProjects/AcrosHitboxes
+AdaptiSound,Tools,MIT,Mr. Walkman,https://godotengine.org/asset-library/asset/1983,https://github.com/MrWalkmanDev/AdaptiSound
+AdMob,Tools,MIT,poing.studios,https://godotengine.org/asset-library/asset/2063,https://github.com/Poing-Studios/godot-admob-plugin
+AdMob,Tools,MIT,poing.studios,https://godotengine.org/asset-library/asset/1108,https://github.com/Poing-Studios/godot-admob-editor
+AdMob (Legacy 3.3),Tools,MIT,poing.studios,https://godotengine.org/asset-library/asset/933,https://github.com/Poing-Studios/godot-admob-editor
+AdMob (v2) (Legacy Godot 4.0),Tools,MIT,poing.studios,https://godotengine.org/asset-library/asset/1701,https://github.com/Poing-Studios/godot-admob-editor
+Advanced Inspector Exporter,Tools,MIT,Multirious,https://godotengine.org/asset-library/asset/1331,https://github.com/Multirious/gd-advanced-inspector-exporter
+AES in GDScript,Scripts,MIT,beamer159,https://godotengine.org/asset-library/asset/285,https://github.com/beamer159/AES-in-GDScript
+AI Assistants For Godot 4,Scripts,MIT,GrandpaEJ,https://godotengine.org/asset-library/asset/4075,https://github.com/Godot4-Addons/ai_assistant_for_godot
+Android Geolocation Plugin,Tools,MIT,cengkarim@gmail.com,https://godotengine.org/asset-library/asset/3320,https://github.com/KarimIbrahim/Godot-Geolocation-Android
+Android Godot Plugin Template,Templates,MIT,fernan2cas96,https://godotengine.org/asset-library/asset/1155,https://github.com/fernacas-dev/android-godot-plugin-template
+Android IAP Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/532,https://github.com/godotengine/godot-demo-projects
+Anima,Tools,MIT,ceceppa,https://godotengine.org/asset-library/asset/852,https://github.com/ceceppa/anima
+Animated Bow,Misc,BSL-1.0,ImageParSeconde,https://godotengine.org/asset-library/asset/1082,https://github.com/ImageParSeconde/Animated-FPS-BOW
+Animated Box Container,2D Tools,MIT,halyulx,https://godotengine.org/asset-library/asset/3952,https://github.com/GramineaGroup/animated_box_container_cs
+Animated LowPoly Pistol,Misc,BSL-1.0,ImageParSeconde,https://godotengine.org/asset-library/asset/1047,https://github.com/ImageParSeconde/Animated-Low-Poly-Pistol
+Animated LowPoly Skeleton,Misc,BSL-1.0,ImageParSeconde,https://godotengine.org/asset-library/asset/1016,https://github.com/ImageParSeconde/Animated-LowPoly-Skeleton
+Animated LowPoly Slime,Misc,BSL-1.0,ImageParSeconde,https://godotengine.org/asset-library/asset/1009,https://github.com/ImageParSeconde/-Animated-LowPoly-Slime
+Animated Panel Container,2D Tools,MIT,halyulx,https://godotengine.org/asset-library/asset/3928,https://github.com/GramineaGroup/animated_panel_container_cs
+Animated Zombie,Misc,BSL-1.0,ImageParSeconde,https://godotengine.org/asset-library/asset/1081,https://github.com/ImageParSeconde/Animated-Zombie
+Animation Folder Loader,Tools,MIT,yousef200.7,https://godotengine.org/asset-library/asset/3813,https://github.com/atsard/godot-animation-folder-loader
+Animation Frame Picker,2D Tools,MIT,AniMesuro,https://godotengine.org/asset-library/asset/697,https://github.com/AniMesuro/Animation-Frame-Picker-for-Godot
+AntiSpecularNoise,Shaders,MIT,DrunkBull,https://godotengine.org/asset-library/asset/1520,https://github.com/DeanNevan/Godot-AntiSpecularNoise
+Arc Dark theme,Misc,MIT,Geequlim,https://godotengine.org/asset-library/asset/20,https://github.com/Geequlim/godot-themes
+AreaProber2D,2D Tools,MIT,Strauji,https://godotengine.org/asset-library/asset/1065,https://github.com/Strauji/Godot-AreaProber2D
+Array Modifier,Tools,Unlicense,miskatonicstudio,https://godotengine.org/asset-library/asset/1012,https://github.com/miskatonicstudio/godot-array-modifier
+Array Modifier,Tools,Unlicense,miskatonicstudio,https://godotengine.org/asset-library/asset/1743,https://github.com/miskatonicstudio/godot-array-modifier
+Aseprite Animation Importer,Tools,MIT,nklbdev,https://godotengine.org/asset-library/asset/767,https://github.com/nklbdev/godot-aseprite-animation-importer
+Aseprite Importer,Tools,MIT,LeonardMeagher2,https://godotengine.org/asset-library/asset/1763,https://github.com/MeagherGames/aseprite-importer-addon
+Aseprite importers,Tools,MIT,nklbdev,https://godotengine.org/asset-library/asset/1880,https://github.com/nklbdev/godot-4-aseprite-importers
+AspectRatioResizeContainer,2D Tools,MIT,Iceflower,https://godotengine.org/asset-library/asset/2089,https://github.com/kenyoni-software/godot-addons
+Asteroid Mania,Demos,MIT,FonderElite,https://godotengine.org/asset-library/asset/1505,https://github.com/FonderElite/Asteroid-Mania
+Asynchronous Scene Loader,Scripts,MIT,NovemberDev,https://godotengine.org/asset-library/asset/460,https://github.com/NovemberDev/GodotAsyncSceneLoader
+Atlas Importer,Tools,MIT,Geequlim,https://godotengine.org/asset-library/asset/44,https://github.com/GodotExplorer/atlas_importer
+Audio Device Changer Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/525,https://github.com/godotengine/godot-demo-projects
+Audio Generator Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/526,https://github.com/godotengine/godot-demo-projects
+Audio Mic Record Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/527,https://github.com/godotengine/godot-demo-projects
+Audio Spectrum Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/528,https://github.com/godotengine/godot-demo-projects
+Authoritative Server Client Framework (Fast-paced),Projects,MIT,sj,https://godotengine.org/asset-library/asset/1298,https://github.com/sboron/godot4-fast-paced-network-fps-tps
+Auto Expand Property Inspector,Misc,MIT,LunatikGames,https://godotengine.org/asset-library/asset/2390,https://github.com/LunatikGames/AutoExpandPropertyInspector_Godot_Plugin
+Auto Material Setup,Tools,GPLv3,Thane5,https://godotengine.org/asset-library/asset/1028,https://github.com/Thane5/godot-auto-material-setup
+Auto Version Incrementor (Mono),Tools,MIT,jtsmithit,https://godotengine.org/asset-library/asset/3568,https://github.com/ComradeDunks/Godot4.4-Auto-Version-Incrementor-Mono
+AutoMat plugin - automatically create and assign materials,3D Tools,MIT,Rytelier,https://godotengine.org/asset-library/asset/1660,https://github.com/Rytelier/Godot-AutoMat
+AutoSaver Toggle for Godot Editor (C#),Tools,MIT,vrravalos,https://godotengine.org/asset-library/asset/3170,https://github.com/vrravalos/AutoSaver-for-Godot
+AutoSizeText,Tools,MIT,SpielmannSpiel,https://godotengine.org/asset-library/asset/3843,https://github.com/SpielmannSpiel/AutoSizeText
+AutotileGenerator,2D Tools,CC0,ticial,https://godotengine.org/asset-library/asset/1109,https://github.com/ticial/AutotileGenerator
+AutotileGenerator3x3min,2D Tools,CC0,ticial,https://godotengine.org/asset-library/asset/1097,https://github.com/ticial/AutotileGenerator
+Awaiter await-all,Tools,MIT,Nights,https://godotengine.org/asset-library/asset/3592,https://github.com/Nightre/godot-await-all
+Axie Starter 3D,Templates,MIT,xs0nhaaa,https://godotengine.org/asset-library/asset/2230,https://github.com/axieinfinity/godot-axie-starter-3d
+Background Loading Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/530,https://github.com/godotengine/godot-demo-projects
+Bad Words Filter,Scripts,MIT,rockgem,https://godotengine.org/asset-library/asset/1764,https://github.com/rockgem/bad-words-filter
+Base64 Manager,Projects,GPLv3,Mxt08,https://godotengine.org/asset-library/asset/921,https://github.com/mxt08-real/Base64-Manager
+BashInGodot,2D Tools,MIT,ThomasGysemans,https://godotengine.org/asset-library/asset/1761,https://github.com/ThomasGysemans/BashInGodot
+Basic 3d Starter,Templates,MIT,Luking,https://godotengine.org/asset-library/asset/2242,https://github.com/TechnoLukas/Godot4-Basic3dStarter
+Basic Dynamic Pool,Scripts,Unlicense,q8geek,https://godotengine.org/asset-library/asset/2412,https://github.com/q8geek/Godot-4-Basic-Dynamic-Pool
+Batch collisions,Tools,MIT,DiV4,https://godotengine.org/asset-library/asset/603,https://github.com/DiV4/godot3.2.1_batch_collisions
+Bayer Dithering Shader,Shaders,CC-BY-4.0,n0cturne,https://godotengine.org/asset-library/asset/4005,https://github.com/N0cturneDev/Bayer-Dithering-Shader
+Better Terrain,2D Tools,Unlicense,Portponky,https://godotengine.org/asset-library/asset/1806,https://github.com/Portponky/better-terrain
+Better Terrain 4.2,2D Tools,Unlicense,Portponky,https://godotengine.org/asset-library/asset/2954,https://github.com/Portponky/better-terrain
+Better Terrain in Gaea,2D Tools,MIT,Portponky,https://godotengine.org/asset-library/asset/3432,https://github.com/Portponky/better-terrain-in-gaea
+Better UI,2D Tools,MIT,chris,https://godotengine.org/asset-library/asset/3022,https://github.com/chrisroe/Godot-Better-UI
+BiomeGenerator,Demos,MIT,StarNightFlower,https://godotengine.org/asset-library/asset/2023,https://github.com/1419427247/BiomeGeneratorDemo
+Blendot Path Exporter,Tools,MIT,everydev,https://godotengine.org/asset-library/asset/3652,https://github.com/azimuthdeveloper/Blendot-Path-Tool
+Bokeh Particle Depth of Field,Shaders,MIT,Bauxite,https://godotengine.org/asset-library/asset/206,https://github.com/Bauxitedev/godot-particle-dof
+BoneGizmo,3D Tools,MIT,thimenesup,https://godotengine.org/asset-library/asset/66,https://github.com/thimenesup/BoneGizmo
+Bottom Panel Creator,Tools,MIT,ThemEmers,https://godotengine.org/asset-library/asset/450,https://github.com/thememers/Godot_Bottom_Panel
+BurstParticles2D,2D Tools,MIT,ivysly,https://godotengine.org/asset-library/asset/1814,https://github.com/uzkbwza/BurstParticles2D
+C# 3D Platform + State Machine - Demo,Demos,MIT,nonunknown,https://godotengine.org/asset-library/asset/593,https://github.com/nonunknown/godot-csharp-3d-platform-fsm-demo
+C# Coroutines like Unity,Scripts,MIT,Peaky,https://godotengine.org/asset-library/asset/2144,https://github.com/Brian-McElroy/GodotCoroutineslikeUnity
+Calendar Button,2D Tools,MIT,Tybobobo,https://godotengine.org/asset-library/asset/22,https://github.com/ivanskodje-godotengine/godot-plugin-calendar-button
+Camera Monitor,Tools,MIT,zaevi,https://godotengine.org/asset-library/asset/1132,https://github.com/zaevi/Godot-Camera-Monitor
+CharacterCamera3D,Scripts,MIT,Robotnik,https://godotengine.org/asset-library/asset/1776,https://github.com/robotnik-dev/character_camera_3d
+Chunk Manager,Templates,Apache-2.0,RabbitTheGentle,https://godotengine.org/asset-library/asset/3281,https://github.com/Voidbrew/chunk_manager
+CineCam,3D Tools,MIT,GoldenPotato76,https://godotengine.org/asset-library/asset/3044,https://github.com/PotatoGolden76/cinecam
+Classic 2D Shooter,Demos,MIT,kidscancode,https://godotengine.org/asset-library/asset/2151,https://github.com/godotrecipes/classic_shmup
+Clientside Predictor (3D clientside prediction),Scripts,GPLv3,DennisHeine,https://godotengine.org/asset-library/asset/1154,https://github.com/decipher2k/Clientside-Predictor-for-Godot
+Clipboard Panel,Tools,GPLv3,Thane5,https://godotengine.org/asset-library/asset/1023,https://github.com/Thane5/godot-clipboard-panel
+CodeSimp,Misc,CC0,jamesofthetauri,https://godotengine.org/asset-library/asset/1227,https://github.com/jamesin4d/codesimp
+COGITO : Immersive Sim Template,Templates,MIT,Phazor,https://godotengine.org/asset-library/asset/2536,https://github.com/Phazorknight/Cogito
+Comedot Ultimate Template [4.4],Templates,MIT,Syntaks.io,https://godotengine.org/asset-library/asset/3163,https://github.com/InvadingOctopus/comedot
+Comedot Ultimate Template [4.5],Templates,MIT,Syntaks.io,https://godotengine.org/asset-library/asset/3887,https://github.com/invadingoctopus/comedot
+Content Pack Manager,Tools,MIT,eumario,https://godotengine.org/asset-library/asset/3682,https://github.com/eumario/content-pack-manager
+Control / Input / Action re-binding,Tools,MIT,jarlowrey,https://godotengine.org/asset-library/asset/848,https://github.com/JarLowrey/GodotActionBinding
+Controller,Tools,MIT,guilherme.albino.francisco@gmail.com,https://godotengine.org/asset-library/asset/2961,https://github.com/cyperpunk-bonsai/controller
+Csharp Console,Tools,MIT,moliko,https://godotengine.org/asset-library/asset/2131,https://github.com/MolikoDeveloper/Csharp-Console-Godot
+Curvature Shader,Shaders,MIT,NovemberDev,https://godotengine.org/asset-library/asset/459,https://github.com/NovemberDev/godot_curvature_shader
+Curve Terrain,3D Tools,MIT,pyscripter99,https://godotengine.org/asset-library/asset/2966,https://github.com/pyscripter99/Curve_Terrain
+Custom Theme Overrides,Tools,MIT,Iceflower,https://godotengine.org/asset-library/asset/2091,https://github.com/kenyoni-software/godot-addons
+Dance Game Demo,Demos,MIT,emirthab,https://godotengine.org/asset-library/asset/935,https://github.com/emirthab/dance-game-godot
+Dark Peace's BulletUpHell: BulletHell Engine (Godot 4),2D Tools,MIT,Dark Peace,https://godotengine.org/asset-library/asset/1801,https://github.com/Dark-Peace/BulletUpHell
+Dark Peace's BulletUpHell: BulletHell Engine (Godot 4.2),2D Tools,MIT,Dark Peace,https://godotengine.org/asset-library/asset/2576,https://github.com/Dark-Peace/BulletUpHell
+Dark Peace's BulletUpHell: BulletHell Engine (Godot4.1),2D Tools,MIT,Dark Peace,https://godotengine.org/asset-library/asset/2577,https://github.com/Dark-Peace/BulletUpHell
+Data Persistence - Easy Text File Saving & Reloading,Scripts,MIT,DeForrestStudios,https://godotengine.org/asset-library/asset/3624,https://github.com/Robert-DeForrest-Reynolds/Godot-Text-File-Data-Persistence
+Date Time Addon,Misc,MIT,Aendryr,https://godotengine.org/asset-library/asset/1157,https://github.com/Aendryr/Godot-Date-Time-Input
+DatePicker,Misc,MIT,chrisizeful,https://godotengine.org/asset-library/asset/3835,https://github.com/chrisizeful/DatePicker
+DebugGUI Graph,Tools,MIT,WeaverDev,https://godotengine.org/asset-library/asset/2020,https://github.com/WeaverDev/DebugGUIGraph
+DecalCo,3D Tools,MIT,Master_J_,https://godotengine.org/asset-library/asset/670,https://github.com/Master-J/DecalCo
+Deep Debug,Tools,MIT,Rytelier,https://godotengine.org/asset-library/asset/1446,https://github.com/Rytelier/Godot-DeepDebug
+Demo Platformer Game,Demos,GPLv3,CesarLeon,https://godotengine.org/asset-library/asset/353,https://github.com/CeesarLeon2002/platformer-godot-game
+Dialog and Quest System,Misc,MIT,miziziziz,https://godotengine.org/asset-library/asset/416,https://github.com/Miziziziz/GodotDialogAndQuestSystem
+Discord RPC,Misc,MIT,Abdera7mane,https://godotengine.org/asset-library/asset/1950,https://github.com/Abdera7mane/discord-rpc-gdscript
+Discord.gd,Scripts,MIT,3ddelano,https://godotengine.org/asset-library/asset/1010,https://github.com/3ddelano/discord.gd
+dolly-gd,Scripts,MIT,florianvazelle,https://godotengine.org/asset-library/asset/1345,https://github.com/florianvazelle/dolly-gd
+Draw Anywhere,Tools,MIT,3ddelano,https://godotengine.org/asset-library/asset/1184,https://github.com/3ddelano/draw-anywhere-godot
+DRPG Framework,Templates,MIT,Nyatsumi,https://godotengine.org/asset-library/asset/3329,https://github.com/Bobbinson/3d-dungeon-godot-4
+DSCN Plugin,Tools,MIT,TwistedTwigleg,https://godotengine.org/asset-library/asset/274,https://github.com/TwistedTwigleg/DSCN_Plugin
+DTDA ML - Machine Learning models,Scripts,Apache-2.0,DTDAGames,https://godotengine.org/asset-library/asset/3359,https://github.com/dtdagames/dtda_ml
+DualEditor,Tools,MIT,Meta-Ben,https://godotengine.org/asset-library/asset/3563,https://github.com/Meta-Ben/DualEditor
+Dynamic Camera 2D,2D Tools,MIT,emirthab,https://godotengine.org/asset-library/asset/1590,https://github.com/emirthab/dynamic-camera
+Dynamic Split Screen Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/541,https://github.com/godotengine/godot-demo-projects
+Easy Charts,Tools,MIT,fenix,https://godotengine.org/asset-library/asset/643,https://github.com/fenix-hub/godot-engine.easy-charts
+Easy Charts (4.x),Tools,MIT,fenix,https://godotengine.org/asset-library/asset/1898,https://github.com/fenix-hub/godot-engine.easy-charts
+Easy Sheet Manager,Tools,MIT,nonunknown,https://godotengine.org/asset-library/asset/599,https://github.com/nonunknown/godot-sheet-manager
+EasyBlend,Shaders,MIT,nobuyuki,https://godotengine.org/asset-library/asset/228,https://github.com/nobuyukinyuu/Godot-EasyBlend
+Editor debugger,Tools,MIT,Zylann,https://godotengine.org/asset-library/asset/295,https://github.com/Zylann/godot_editor_debugger_plugin
+Editor debugger,Tools,MIT,Zylann,https://godotengine.org/asset-library/asset/2003,https://github.com/Zylann/godot_editor_debugger_plugin
+Editor Discord Presence,Tools,MIT,3ddelano,https://godotengine.org/asset-library/asset/1166,https://github.com/3ddelano/godot-editor-discord-presence
+editor-log-highlighter,Misc,MIT,ClumsyInker,https://godotengine.org/asset-library/asset/3810,https://github.com/ClumsyInker/godot-editor-log-highlighter
+Elgato Stream Deck Integration,Tools,MIT,BoyneGames,https://godotengine.org/asset-library/asset/1755,https://github.com/BoyneGames/streamdeck-godot-plugin
+EnhancedGridMap,3D Tools,MIT,DanchieGO,https://godotengine.org/asset-library/asset/4080,https://github.com/DanchieGO/EnhancedGridMap
+ExtendTimer,Tools,MIT,Keldowin,https://godotengine.org/asset-library/asset/2504,https://github.com/Keldowin/ExtendTimer
+EzNet,Scripts,MIT,Royas,https://godotengine.org/asset-library/asset/4047,https://github.com/RoyasDev/EzNet
+Ezpz Inspector,Tools,MIT,dilaura_exp,https://godotengine.org/asset-library/asset/2203,https://github.com/dilaura-exp/Ezpz-Inspector
+Fancy particles,Misc,MIT,k2kra,https://godotengine.org/asset-library/asset/1539,https://github.com/Ark2000/fancy-particles
+File Structure Export,Tools,MIT,Coffeeworld,https://godotengine.org/asset-library/asset/3678,https://github.com/Coffeeworld/file-structure-export-plugin
+FileSystemView,Tools,MIT,zaevi,https://godotengine.org/asset-library/asset/672,https://github.com/zaevi/godot-filesystem-view
+Fire Bullets,2D Tools,MIT,MelonDev,https://godotengine.org/asset-library/asset/1990,https://github.com/Melon-The-Dev/Fire-Bullets-Godot-Plugin
+First Person Controller,3D Tools,MIT,bdashraful,https://godotengine.org/asset-library/asset/310,https://github.com/ashrafulislambd/fpscontroller
+First Person Controller (FPS),Scripts,MIT,Linko,https://godotengine.org/asset-library/asset/758,https://github.com/Linko-3D/First-Person-Controller-FPS
+First person player,3D Tools,GPLv3,Mxt08,https://godotengine.org/asset-library/asset/917,https://github.com/mxt08-real/player
+Flawless 2D Shadows,2D Tools,MIT,Rokle,https://godotengine.org/asset-library/asset/2647,https://github.com/Rokle/Flawless-2D-Shadows
+FlowerInventory,Tools,MIT,BTOTHER,https://godotengine.org/asset-library/asset/1618,https://github.com/Abab-bk/FlowerIventory
+FlowerInventory - GD4,Tools,MIT,BTOTHER,https://godotengine.org/asset-library/asset/1754,https://github.com/Abab-bk/FlowerIventory
+Foamy Ocean,Shaders,MIT,creikey,https://godotengine.org/asset-library/asset/338,https://github.com/creikey/foamy-ocean
+Follower,3D Tools,GPLv3,Mxt08,https://godotengine.org/asset-library/asset/915,https://github.com/mxt08-real/follow
+FPS Controller (Mono),Scripts,MIT,ismailfilipov,https://godotengine.org/asset-library/asset/1553,https://github.com/ismailgamedev/FPS-Controller-Mono
+Fractal Shaders,Shaders,MIT,Chaosus,https://godotengine.org/asset-library/asset/93,https://github.com/Chaosus/GDFractals
+Free Look Camera,3D Tools,MIT,MarcPhi,https://godotengine.org/asset-library/asset/1317,https://github.com/MarcPhi/godot-free-look-camera
+Function Type Auto-complete,Tools,MIT,kahanscious,https://godotengine.org/asset-library/asset/3445,https://github.com/kahanscious/godot-function-autocomplete
+Game Base 2D,Templates,MIT,solenya,https://godotengine.org/asset-library/asset/2128,https://github.com/GuilhermeGSousa/game-base-2D
+GD-OpenBlive,Tools,MIT,Fantety,https://godotengine.org/asset-library/asset/2626,https://github.com/Fantety/GD-OpenBlive
+GD-SimpleKnob,2D Tools,MIT,nobuyuki,https://godotengine.org/asset-library/asset/1246,https://github.com/nobuyukinyuu/GD-SimpleKnob
+GD-Sync | Advanced Multiplayer Plugin,Tools,BSD-2-Clause,GD-Sync,https://godotengine.org/asset-library/asset/2347,https://github.com/GD-Sync/GD-Sync
+GDGotm,Scripts,MIT,gotm.io,https://godotengine.org/asset-library/asset/620,https://github.com/PlayGotm/GDGotm
+GDLog,Tools,MIT,MagdielM,https://godotengine.org/asset-library/asset/2188,https://github.com/MagdielM/GDLog
+GDLuau: Luau C/C++ API bindings,Misc,MIT,Manonox,https://godotengine.org/asset-library/asset/2044,https://github.com/Manonox/GDLuau
+GDMosquitto,Tools,MIT,jferdelyi,https://godotengine.org/asset-library/asset/1523,https://github.com/GDWired/GDMosquitto
+GDMUT - C# Unit Tester,Tools,MIT,spycemyster,https://godotengine.org/asset-library/asset/2100,https://github.com/Spycemyster/GDMUT
+GDNative-Ropesim,2D Tools,MIT,mphe,https://godotengine.org/asset-library/asset/2334,https://github.com/mphe/GDNative-Ropesim
+GDPaho,Tools,MIT,jferdelyi,https://godotengine.org/asset-library/asset/2358,https://github.com/GDWired/GDPaho
+GDScript Macros,Tools,CC0,rainlizard,https://godotengine.org/asset-library/asset/992,https://github.com/rainlizard/GDScriptMacros
+GDScript OTP,Scripts,MIT,fenix,https://godotengine.org/asset-library/asset/1448,https://github.com/fenix-hub/godot-engine.otp
+GDScript Promise Async Utils,Scripts,MIT,kuruk-mm,https://godotengine.org/asset-library/asset/2351,https://github.com/kuruk-mm/gdscript-promise-async-utils
+GDScript syntax highlighting for GNU Nano text editor,Scripts,Unlicense,Rito12,https://godotengine.org/asset-library/asset/4000,https://github.com/Rito13/nano-gdscript
+GestureControlledCamera2D - Godot 3.x,2D Tools,MIT,mavcito,https://godotengine.org/asset-library/asset/542,https://github.com/Federico-Ciuffardi/GestureControlledCamera2D
+GestureControlledCamera2D - Godot 4.x,2D Tools,MIT,mavcito,https://godotengine.org/asset-library/asset/1867,https://github.com/Federico-Ciuffardi/GestureControlledCamera2D
+Ginq,Scripts,MIT,kaluluosi,https://godotengine.org/asset-library/asset/1752,https://github.com/kaluluosi/Ginq
+Git SHA Project Setting,Tools,MIT,Iceflower,https://godotengine.org/asset-library/asset/1979,https://github.com/kenyoni-software/godot-addons
+Git User Data,Tools,MIT,ACB_Gamez,https://godotengine.org/asset-library/asset/1533,https://github.com/ACB-prgm/GitDataPlugin
+Github To Itch,Tools,MIT,LeonardMeagher2,https://godotengine.org/asset-library/asset/1241,https://github.com/LeonardMeagher2/github_to_itch
+Gizmo3D,3D Tools,MIT,chrisizeful,https://godotengine.org/asset-library/asset/3392,https://github.com/chrisizeful/Gizmo3D
+Global position and rotation in Inspector,2D Tools,MIT,Login1990,https://godotengine.org/asset-library/asset/4044,https://github.com/Login1990/global_position_edit
+GMUI,Tools,MIT,MoLuo,https://godotengine.org/asset-library/asset/1929,https://github.com/JustDooooIt/GMUI
+GO P2P,Misc,MIT,godotonline,https://godotengine.org/asset-library/asset/4046,https://github.com/GodotOnlineCOM/GodotOnline-P2P-Plugin
+GoBoxDialog,2D Tools,MIT,koris,https://godotengine.org/asset-library/asset/2452,https://github.com/K0RIS/GoBoxDialog
+Godiscord,Scripts,MIT,Shuflduf,https://godotengine.org/asset-library/asset/3562,https://github.com/Shuflduf/Godiscord
+GodoGram - Telegram API,Tools,MIT,Delalex,https://godotengine.org/asset-library/asset/2033,https://github.com/Delalex/GodoGram
+Godot 3D mesh slicing,3D Tools,MIT,S.Y.B.I.O.T.E,https://godotengine.org/asset-library/asset/938,https://github.com/SYBIOTE/Godot-Mesh-slicer
+Godot 4 interior mapping shader no cubemap,Shaders,MIT,Rytelier,https://godotengine.org/asset-library/asset/1564,https://github.com/Rytelier/Godot-4-interior-mapping-shader-no-cubemap
+"Godot 4.1 3D Terrain Plugin (heightmap, mapbox)",3D Tools,MIT,Sythelux,https://godotengine.org/asset-library/asset/1920,https://github.com/sboron/terrain-tool-godot4
+Godot Awesome Debug Print,Tools,MIT,AustinDoss,https://godotengine.org/asset-library/asset/1091,https://github.com/AustinDoss/Godot-Awesome-Debug-Print
+Godot Beautifier,Tools,MIT,cdpude,https://godotengine.org/asset-library/asset/1721,https://github.com/cdpude/GodotBeautifier
+Godot Compass,Scripts,MIT,vishu,https://godotengine.org/asset-library/asset/1893,https://github.com/vi4hu/godot_compass
+Godot Compass,Scripts,MIT,vishu,https://godotengine.org/asset-library/asset/2442,https://github.com/vi4hu/godot_compass
+Godot Cookies,Scripts,MIT,Joy-less,https://godotengine.org/asset-library/asset/3698,https://github.com/Joy-less/GodotCookies
+Godot CQRS,Scripts,MIT,HELLBOY_HEAVEN,https://godotengine.org/asset-library/asset/3728,https://github.com/HellboyHeaven/godot-cqrs
+Godot Engine JWT,Scripts,MIT,fenix,https://godotengine.org/asset-library/asset/1104,https://github.com/fenix-hub/godot-engine.jwt
+Godot Game Settings,Tools,MIT,PunchablePlushie,https://godotengine.org/asset-library/asset/859,https://github.com/PunchablePlushie/godot-game-settings
+Godot GIF (4.1),Misc,MIT,b0tlanner,https://godotengine.org/asset-library/asset/2255,https://github.com/BOTLANNER/godot-gif
+Godot GIF (4.4.1),Misc,MIT,b0tlanner,https://godotengine.org/asset-library/asset/3993,https://github.com/BOTLANNER/godot-gif
+Godot Inheritance Dock,Tools,MIT,willnationsdev,https://godotengine.org/asset-library/asset/108,https://github.com/willnationsdev/godot-inheritance-dock
+Godot Mod Loader,Misc,CC0,GodotModding,https://godotengine.org/asset-library/asset/1938,https://github.com/GodotModding/godot-mod-loader
+Godot Motion Matching,3D Tools,MIT,solenya,https://godotengine.org/asset-library/asset/3822,https://github.com/GuilhermeGSousa/godot-motion-matching
+Godot Navigation Lite,3D Tools,MIT,miloslu,https://godotengine.org/asset-library/asset/610,https://github.com/MilosLukic/Godot-Navigation-Lite
+Godot NExt (Node Extensions),Scripts,MIT,willnationsdev,https://godotengine.org/asset-library/asset/82,https://github.com/godot-extended-libraries/godot-next
+Godot OpenHMD driver,Misc,MIT,Mux213,https://godotengine.org/asset-library/asset/213,https://github.com/GodotVR/godot-openhmd-asset
+Godot Palette Swap,2D Tools,MIT,hearto,https://godotengine.org/asset-library/asset/239,https://github.com/HeartoLazor/godot_palette_swap
+Godot Plugin Refresher,Tools,MIT,willnationsdev,https://godotengine.org/asset-library/asset/248,https://github.com/godot-extended-libraries/godot-plugin-refresher
+Godot Raymarching,Demos,MIT,bruce965,https://godotengine.org/asset-library/asset/2284,https://github.com/bruce965/godot-raymarching
+Godot Retro,Shaders,CC0,Ahopness,https://godotengine.org/asset-library/asset/1510,https://github.com/Ahopness/GodotRetro
+Godot Rich Presence,Scripts,MIT,Weslei,https://godotengine.org/asset-library/asset/304,https://github.com/WesleiRamos/Godot-Rich-Presence
+Godot RL Agents,Tools,MIT,edbeeching,https://godotengine.org/asset-library/asset/1629,https://github.com/edbeeching/godot_rl_agents_plugin
+Godot Scene Exporter,Tools,MIT,Clancey,https://godotengine.org/asset-library/asset/3146,https://github.com/Clancey/GodotExport
+Godot Simple Text Menu,2D Tools,MIT,henriquelalves,https://godotengine.org/asset-library/asset/39,https://github.com/henriquelalves/GodotSimpleTextMenu
+Godot Solana SDK,Tools,MIT,thomukas1,https://godotengine.org/asset-library/asset/3232,https://github.com/Virus-Axel/godot-solana-sdk
+Godot Space Mouse,3D Tools,Testing,cybereality,https://godotengine.org/asset-library/asset/1383,https://github.com/cybereality/godot-space-mouse
+Godot Stereo 3D,Shaders,MIT,cybereality,https://godotengine.org/asset-library/asset/1143,https://github.com/cybereality/godot-stereo-3d
+Godot Super Scaling,Shaders,MIT,cybereality,https://godotengine.org/asset-library/asset/1141,https://github.com/cybereality/godot-super-scaling
+Godot Super Wakatime,Tools,MIT,BartoszB,https://godotengine.org/asset-library/asset/3484,https://github.com/BudzioT/Godot_Super-Wakatime
+Godot Text Interface Engine,2D Tools,MIT,henriquelalves,https://godotengine.org/asset-library/asset/26,https://github.com/henriquelalves/GodotTIE
+Godot Text Interface Engine (Godot v3.x),2D Tools,MIT,henriquelalves,https://godotengine.org/asset-library/asset/181,https://github.com/henriquelalves/GodotTIE
+Godot Texture Atlas,2D Tools,MIT,KAUTARUMA,https://godotengine.org/asset-library/asset/3815,https://github.com/KAUTARUMA/godot-texture-atlas
+Godot Timed Input,Tools,MIT,hatmix,https://godotengine.org/asset-library/asset/3168,https://github.com/hatmix/godot-timed-input
+Godot TOML Parser,Misc,MIT,benichi,https://godotengine.org/asset-library/asset/3582,https://github.com/XBenichi/Godot-TOML-Parser
+Godot Touch Input Manager - Godot 3.x,Scripts,MIT,mavcito,https://godotengine.org/asset-library/asset/473,https://github.com/Federico-Ciuffardi/GodotTouchInputManager
+Godot Touch Input Manager - Godot 4.x,Scripts,MIT,mavcito,https://godotengine.org/asset-library/asset/1873,https://github.com/Federico-Ciuffardi/GodotTouchInputManager
+Godot Touch Input Manager Demo - Godot 3.x,Demos,MIT,mavcito,https://godotengine.org/asset-library/asset/554,https://github.com/Federico-Ciuffardi/GodotTouchInputManager-Demo
+Godot Touch Input Manager Demo - Godot 4.x,Demos,MIT,mavcito,https://godotengine.org/asset-library/asset/1868,https://github.com/Federico-Ciuffardi/GodotTouchInputManager-Demo
+Godot WebXR Template,Templates,MIT,mâ‚‚,https://godotengine.org/asset-library/asset/1128,https://github.com/msub2/godot-webxr-template
+godot-dynamic-quality-scaling,3D Tools,GPLv3,thmsn1005,https://godotengine.org/asset-library/asset/2357,https://github.com/thmasn/godot-dynamic-quality-scaling#godot-dynamic-quality-scaling
+Godot-MirrorInstance,3D Tools,MIT,PHOBOSS,https://godotengine.org/asset-library/asset/491,https://github.com/19PHOBOSS98/Godot-MirrorInstance
+Godot-MMD,Demos,MIT,sselecirpym,https://godotengine.org/asset-library/asset/3303,https://github.com/sselecirPyM/Godot-MMD
+Godot-WeChatPay-Android-Plugin,Scripts,MIT,1079662992@qq.com,https://godotengine.org/asset-library/asset/3171,https://github.com/dsyze/Godot-WeChatPay-Android-Plugin
+Godot4 LAN Servers Discovery (serversscan),Scripts,MIT,Nights,https://godotengine.org/asset-library/asset/2254,https://github.com/Nightscratch/Godot4-LAN-Servers-Discovery
+Godot4-Coroutine,Scripts,MIT,BimDav,https://godotengine.org/asset-library/asset/1726,https://github.com/BimDav/Godot4-Coroutines
+GodotBLE,Tools,MIT,Fantety,https://godotengine.org/asset-library/asset/3439,https://github.com/Fantety/GodotBLE
+GodotEnv,Misc,MIT,cuca,https://godotengine.org/asset-library/asset/626,https://github.com/coelhucas/godotenv
+GodotGPT,Tools,MIT,Jesper,https://godotengine.org/asset-library/asset/2643,https://github.com/jespereggers/GodotGPT
+GodotGPT,Tools,MIT,ecadz,https://godotengine.org/asset-library/asset/3871,https://github.com/brb-fr/GodotGPT
+GodotIRC,Tools,MIT,AlexHoratio,https://godotengine.org/asset-library/asset/1337,https://github.com/AlexHoratio/GodotIRC
+GodotMetaMaskLogin,Demos,MIT,NumDev2310,https://godotengine.org/asset-library/asset/3200,https://github.com/NumDev2310/GodotMetaMaskLogin
+GoGodot,2D Tools,MIT,oranjoose,https://godotengine.org/asset-library/asset/235,https://github.com/Oranjoose/GoGodot
+Google Play Games Services Plugin for Godot,Tools,MIT,studioadriatic,https://godotengine.org/asset-library/asset/1151,https://github.com/StudioAdriatic/PGSGP
+Google Sheets as Database C#,Scripts,MIT,nonunknown,https://godotengine.org/asset-library/asset/482,https://github.com/nonunknown/Godot-SheetDB
+GPUNoiseTexture(2D/3D),Tools,MIT,2Retr0,https://godotengine.org/asset-library/asset/3572,https://github.com/2Retr0/GodotGPUNoiseTexture
+Gravity Objects,3D Tools,MIT,Jummit,https://godotengine.org/asset-library/asset/263,https://github.com/Jummit/Godot-Gravity-Objects
+GUI Drag And Drop Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/133,https://github.com/godotengine/godot-demo-projects
+GUI in 3D Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/127,https://github.com/godotengine/godot-demo-projects
+GUI Input Mapping Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/131,https://github.com/godotengine/godot-demo-projects
+GUI Rich Text/BBcode Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/132,https://github.com/godotengine/godot-demo-projects
+GUI Translation Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/134,https://github.com/godotengine/godot-demo-projects
+Gype,Tools,MIT,GodotHub,https://godotengine.org/asset-library/asset/3521,https://github.com/godothub/gype
+Hair Shader,Shaders,MIT,Bauxite,https://godotengine.org/asset-library/asset/168,https://github.com/Bauxitedev/godot-hair-shader
+HealthBar2D,2D Tools,MIT,vishu,https://godotengine.org/asset-library/asset/1611,https://github.com/vi4hu/godot_health_bar_2d
+HealthBar2D,Scripts,MIT,vishu,https://godotengine.org/asset-library/asset/1945,https://github.com/vi4hu/godot_health_bar_2d
+HexGrid library for Godot 4.0+,2D Tools,MIT,HugoEnzo,https://godotengine.org/asset-library/asset/2292,https://github.com/HugoEnzo/HexGrid_Godot_4.0
+Hide Private Properties,Tools,MIT,Iceflower,https://godotengine.org/asset-library/asset/1989,https://github.com/kenyoni-software/godot-addons
+HighscoreManager,Scripts,MIT,kitchen-games,https://godotengine.org/asset-library/asset/989,https://github.com/schmertenk/HighscoreManager
+How Collision and Layer Masks Works,Demos,MIT,comugodotbrasil,https://godotengine.org/asset-library/asset/177,https://github.com/alexbosquin/godot-collision-mask-layer
+Hunspell Spellchecker,Tools,MIT,brunogbrito,https://godotengine.org/asset-library/asset/3876,https://github.com/brunogbrito/Godot-Hunspell
+Icon Explorer,Tools,MIT,Iceflower,https://godotengine.org/asset-library/asset/2511,https://github.com/kenyoni-software/godot-addons
+Icons Patcher,Tools,MIT,Iceflower,https://godotengine.org/asset-library/asset/1980,https://github.com/kenyoni-software/godot-addons
+IdeaBoard,Tools,MIT,Folta,https://godotengine.org/asset-library/asset/1882,https://github.com/folt-a/godot-idea-board
+Import Cleaner,Tools,MIT,zaevi,https://godotengine.org/asset-library/asset/813,https://github.com/zaevi/ImportCleaner
+Importality,Tools,MIT,nklbdev,https://godotengine.org/asset-library/asset/2025,https://github.com/nklbdev/godot-4-importality
+Improved Resource Picker,Tools,MIT,MakovWait,https://godotengine.org/asset-library/asset/1362,https://github.com/MakovWait/improved_resource_picker
+Improved Resource Picker 4.x,Tools,MIT,MakovWait,https://godotengine.org/asset-library/asset/2051,https://github.com/MakovWait/improved_resource_picker
+Instancing Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/148,https://github.com/godotengine/godot-demo-projects
+intro-gd,2D Tools,Testing,farhadierf,https://godotengine.org/asset-library/asset/1403,https://github.com/farhadi-erfan/intro-gd
+Inventory Demo with bags and chests,Demos,MIT,Rokle,https://godotengine.org/asset-library/asset/940,https://github.com/Rokle/Godot-Inventory-Demo
+Inventory Example,Templates,MIT,hajster,https://godotengine.org/asset-library/asset/3824,https://github.com/hajstersztyk/Inventory-Example
+Inventory Manager Asset,Tools,MIT,Escandiuzzi,https://godotengine.org/asset-library/asset/413,https://github.com/Escandiuzzi/Inventory-Manager-Asset-Godot
+Joypads Demo / Tool,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/140,https://github.com/godotengine/godot-demo-projects
+JSON Schema validator,Scripts,MIT,sahedo.studio,https://godotengine.org/asset-library/asset/514,https://github.com/Sahedo/JSON-Shema-validator
+Key Prompts System,Misc,MIT,cliveDev0413,https://godotengine.org/asset-library/asset/1324,https://github.com/CliveDev0413/key-prompts-system-godot
+Keychain,Scripts,MIT,Orama Interactive,https://godotengine.org/asset-library/asset/1350,https://github.com/Orama-Interactive/Keychain
+Launchy,Tools,MIT,nobuyuki,https://godotengine.org/asset-library/asset/224,https://github.com/nobuyukinyuu/launchy
+LDtk Importer,Tools,MIT,pttn40,https://godotengine.org/asset-library/asset/816,https://github.com/JoshLee0915/GodotLDtkImporter
+License Manager,Tools,MIT,Iceflower,https://godotengine.org/asset-library/asset/1969,https://github.com/kenyoni-software/godot-addons
+LinuxLikeConsole,Tools,MIT,codot,https://godotengine.org/asset-library/asset/320,https://github.com/cobrapitz/LinuxLikeConsole
+Loading Autoload Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/529,https://github.com/godotengine/godot-demo-projects
+Loading Scene Changer Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/531,https://github.com/godotengine/godot-demo-projects
+Loading with Threads Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/144,https://github.com/godotengine/godot-demo-projects
+LogDuck - Your Logging Buddy for Godot 4.x,Tools,MIT,zeeweasel,https://godotengine.org/asset-library/asset/2911,https://github.com/ZeeWeasel/LogDuck
+LogFox,Tools,MIT,Haiku,https://godotengine.org/asset-library/asset/3573,https://github.com/HakaikuXiao/LogFox
+Loggie,Tools,MIT,ShivaShadowsong,https://godotengine.org/asset-library/asset/3382,https://github.com/Shiva-Shadowsong/loggie
+LootLockerSDK,Tools,MIT,LootLocker,https://godotengine.org/asset-library/asset/3713,https://github.com/lootlocker/godot-sdk
+Ludare Godot,Scripts,MIT,Ludare,https://godotengine.org/asset-library/asset/3149,https://github.com/medstone/LudareGodot
+Majordomo,Tools,MIT,BenjaTK,https://godotengine.org/asset-library/asset/3278,https://github.com/BenjaTK/Majordomo
+Makefile Launcher,Tools,MIT,Samdze,https://godotengine.org/asset-library/asset/912,https://github.com/samdze/godot-makefile-launcher-plugin
+Mannequiny: Open 3D Mannequin,Templates,MIT,gdquest,https://godotengine.org/asset-library/asset/440,https://github.com/GDquest/godot-3d-mannequin
+Map Generator Sample,Templates,MIT,CheapMeow,https://godotengine.org/asset-library/asset/1416,https://github.com/CheapMeow/Godot-MapGeneratorSampleProject
+Marker2D,2D Tools,MIT,EmzyShmemzy,https://godotengine.org/asset-library/asset/3028,https://github.com/marcozee03/Marker2D
+Material Modifier,Tools,GPLv3,Thane5,https://godotengine.org/asset-library/asset/1024,https://github.com/Thane5/godot-material-modifier
+Material Modifier,Tools,GPLv3,Thane5,https://godotengine.org/asset-library/asset/1077,https://github.com/Thane5/godot-material-modifier
+MeshBatcher,3D Tools,MIT,OrigamiPete,https://godotengine.org/asset-library/asset/869,https://github.com/OrigamiDev-Pete/MeshBatcher
+MeshLibraryFrameInstance3D,3D Tools,MIT,martcarrefour,https://godotengine.org/asset-library/asset/3210,https://github.com/martcarrefour/MeshLibraryFrameInstance3D
+MessageBox,2D Tools,MIT,tlitookilakin,https://godotengine.org/asset-library/asset/696,https://github.com/tlitookilakin/message_box
+Midi Visualizer,Projects,MIT,50tu,https://godotengine.org/asset-library/asset/2049,https://github.com/50tu/Godot-Midi-Visualizer
+Mind Game,Tools,MIT,AbnormalMapStudio,https://godotengine.org/asset-library/asset/3025,https://github.com/adammikulis/MindGame
+MiniScript C#,Scripts,MIT,raiyni,https://godotengine.org/asset-library/asset/2683,https://github.com/raiyni/miniscript-cs
+Mirror3D,Shaders,MIT,Joy-less,https://godotengine.org/asset-library/asset/3983,https://github.com/Joy-less/Mirror3D
+Mobile Sensors Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/143,https://github.com/godotengine/godot-demo-projects
+Mod Loader Dev Tool Brotato Content Loader Template,Tools,CC0,KANA,https://godotengine.org/asset-library/asset/1996,https://github.com/BrotatoMods/ML_Dev_Tool_Content_Loader_minimal_Tempalte
+Mod.io For Godot,Scripts,MIT,Abel,https://godotengine.org/asset-library/asset/2241,https://github.com/aNaOH/modio-godot
+Modifiers Node,Tools,MIT,Samdze,https://godotengine.org/asset-library/asset/457,https://github.com/samdze/godot-modifiers-plugin
+Modular Components,Tools,MIT,ItsMeAlec,https://godotengine.org/asset-library/asset/2675,https://github.com/AlecSouthward/Modular-Components
+More Compression,Scripts,MIT,Hunam,https://godotengine.org/asset-library/asset/3608,https://github.com/Hunam6/more-compression
+More Effective Godot Coroutines (C#),Tools,MIT,WeaverDev,https://godotengine.org/asset-library/asset/1961,https://github.com/WeaverDev/More-Effective-Godot-Coroutines
+Motion Blur,Shaders,MIT,Bauxite,https://godotengine.org/asset-library/asset/211,https://github.com/Bauxitedev/godot-motion-blur
+Motion Blur 4.0,Shaders,MIT,Mantequilla,https://godotengine.org/asset-library/asset/1499,https://github.com/davisbrandon02/motion-blur-godot-4.0
+Movement 2: A sequel to 2D Platformer demos,Demos,MIT,TheoTheTorch,https://godotengine.org/asset-library/asset/1830,https://github.com/TheoTheTorch/MOVEMENT-2
+Movement 2: A sequel to 2D Platformer demos (3.5),Demos,MIT,TheoTheTorch,https://godotengine.org/asset-library/asset/1637,https://github.com/TheoTheTorch/MOVEMENT-2
+Multi-Scene Editor,Tools,MIT,eruhlinteractive,https://godotengine.org/asset-library/asset/1325,https://github.com/eruhlinteractive/godot_multi_scene_editor
+MultiMesh Scatter,3D Tools,MIT,Arcane Energy,https://godotengine.org/asset-library/asset/1566,https://github.com/arcaneenergy/godot-multimesh-scatter
+MultiMesh Scatter,3D Tools,MIT,Arcane Energy,https://godotengine.org/asset-library/asset/1569,https://github.com/arcaneenergy/godot-multimesh-scatter
+Multiplayer Bomber Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/139,https://github.com/godotengine/godot-demo-projects
+Multiplayer FPS,Templates,MIT,wamiqurrehman,https://godotengine.org/asset-library/asset/666,https://github.com/wamiqurrehman093/network-fps-ds
+Multiplayer Space Game,Demos,MIT,cobolfoo,https://godotengine.org/asset-library/asset/646,https://github.com/cobolfoo/godot3-spacegame
+Multitouch Cubes Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/141,https://github.com/godotengine/godot-demo-projects
+Multitouch View Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/142,https://github.com/godotengine/godot-demo-projects
+MusicManager,Tools,MIT,cannon,https://godotengine.org/asset-library/asset/2661,https://github.com/Promptineer/MusicManager
+NAP Map Generator,3D Tools,MIT,NAPSoftworks,https://godotengine.org/asset-library/asset/3910,https://github.com/NAPSoftworks/nap_map_generator
+Native Integration,Tools,MIT,nonunknown,https://godotengine.org/asset-library/asset/777,https://github.com/nonunknown/godot-native-integration
+NativeLib,Tools,MIT,DrMoriarty,https://godotengine.org/asset-library/asset/824,https://github.com/DrMoriarty/nativelib
+Neural Network,Scripts,BSD-2-Clause,LikVis,https://godotengine.org/asset-library/asset/2429,https://github.com/ZeroLikviz/godot_plugin-neural-network
+Nobiax's Urban Assets,Misc,MIT,DevAtMe,https://godotengine.org/asset-library/asset/209,https://github.com/yaelatletl/Nobiax-s-Urban-Assets
+NobodyWho | Local LLMs for dialogue,Tools,EUPL-1.2,NobodyWho,https://godotengine.org/asset-library/asset/2886,https://github.com/nobodywho-ooo/nobodywho
+OmniScale,Shaders,MIT,nobuyuki,https://godotengine.org/asset-library/asset/258,https://github.com/nobuyukinyuu/godot-omniscale
+Onscreen Output,Tools,MIT,Maulve,https://godotengine.org/asset-library/asset/2266,https://github.com/Maulve/onscreen-output
+Open External Editor,Misc,MIT,calviken,https://godotengine.org/asset-library/asset/173,https://github.com/calviken/open-external-editor
+Open Kanban,Tools,MIT,EXSPIRAVIT_1104,https://godotengine.org/asset-library/asset/1371,https://github.com/EXSPIRAVIT1104OFFICIAL/open-kanban
+Open-World Archero,Demos,MIT,spastic,https://godotengine.org/asset-library/asset/562,https://github.com/tanjunior/godot-openworld-archero
+OpenAI Assistant,Tools,MIT,Buri,https://godotengine.org/asset-library/asset/1758,https://github.com/Buri/godot-openai
+OpenAI GPT Chat,Tools,MIT,FinePointCGI,https://godotengine.org/asset-library/asset/1779,https://github.com/finepointcgi/Godot-Open-AI-GPT-Integration
+OpenSimplexNoise Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/533,https://github.com/godotengine/godot-demo-projects
+Operations,Tools,MIT,chrisizeful,https://godotengine.org/asset-library/asset/3457,https://github.com/chrisizeful/Operations
+Outline shader,Shaders,MIT,Ponas,https://godotengine.org/asset-library/asset/394,https://github.com/PonasKovas/godot-outline
+Packed UI for Jams,Misc,MIT,symbol24,https://godotengine.org/asset-library/asset/3314,https://github.com/symbol24/Packeged-UI
+PackRTC - P2P Multiplayer,Tools,MIT,maji,https://godotengine.org/asset-library/asset/3828,https://github.com/maji-git/packrtc
+palette swap shader,Shaders,MIT,bonziraider,https://godotengine.org/asset-library/asset/464,https://github.com/bonziraider/magnus-palette-swaper
+Palette Swap Texture,2D Tools,MIT,theboyboy,https://godotengine.org/asset-library/asset/395,https://github.com/theboyboy/PaletteSwapTexture
+Palette Tools,Tools,MIT,RancidMilk,https://godotengine.org/asset-library/asset/1635,https://github.com/RancidMilkGames/GodotPaletteTools
+Palette Tools 4.2+,Tools,MIT,RancidMilk,https://godotengine.org/asset-library/asset/2436,https://github.com/RancidMilkGames/GodotPaletteTools
+Panku Console,Tools,MIT,k2kra,https://godotengine.org/asset-library/asset/1558,https://github.com/Ark2000/PankuConsole
+Particles2D+,Scripts,MIT,ACB_Gamez,https://godotengine.org/asset-library/asset/937,https://github.com/ACB-prgm/Particles2D_Plus
+Path Tool,3D Tools,MIT,eerik,https://godotengine.org/asset-library/asset/1518,https://github.com/blackblock-io/path-tool
+Pause and Save,Scripts,MIT,Linko,https://godotengine.org/asset-library/asset/759,https://github.com/Linko-3D/Pause-and-Save
+Pause Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/147,https://github.com/godotengine/godot-demo-projects
+Pawns,Tools,MIT,guilherme.albino.francisco@gmail.com,https://godotengine.org/asset-library/asset/2960,https://github.com/cyperpunk-bonsai/pawns
+Persistent ID,Tools,MIT,AdamNaghs,https://godotengine.org/asset-library/asset/4078,https://github.com/AdamNaghs/Persistent-ID-Plugin
+Phantom Camera,Tools,MIT,ramoks,https://godotengine.org/asset-library/asset/1822,https://github.com/ramokz/phantom-camera
+Philips Hue Integration,Scripts,MIT,skooterkurt,https://godotengine.org/asset-library/asset/925,https://github.com/FilipLundby/Gohue
+Phoenix Channels for Godot 3,Scripts,MIT,alfredbaudisch,https://godotengine.org/asset-library/asset/1843,https://github.com/alfredbaudisch/GodotPhoenixChannels
+Phoenix Channels for Godot 4,Scripts,MIT,alfredbaudisch,https://godotengine.org/asset-library/asset/1831,https://github.com/alfredbaudisch/GodotPhoenixChannels
+Pigdev Cutout Characters,Misc,MIT,pigdev,https://godotengine.org/asset-library/asset/183,https://github.com/pigdevstudio/cutout_characters
+Planetary Processing Multiplayer SDK,Tools,MIT,samsully,https://godotengine.org/asset-library/asset/3412,https://github.com/Planetary-Processing/godot-plugin
+Platform Shooter,Demos,MIT,waffleawt,https://godotengine.org/asset-library/asset/2269,https://github.com/WaffleAWT/Godot-4.1-Platform-Shooter
+Platformer Pathfinding Enemy AI,2D Tools,MIT,Ron0Studios,https://godotengine.org/asset-library/asset/635,https://github.com/rudrrayan/PathfindingPlatformingAI
+Playbyte Mirror,Tools,Testing,samnm,https://godotengine.org/asset-library/asset/1458,https://github.com/PlaybyteInc/godot-mirror-plugin
+Player Controller,3D Tools,MIT,Sm0kEsOut,https://godotengine.org/asset-library/asset/3708,https://github.com/Sm0kEsOut/GDScript-Player-Controller
+PlayerPrefs C#,Scripts,MIT,MarcWerk,https://godotengine.org/asset-library/asset/2291,https://github.com/DrOffensive/PlayerPrefsUtility
+Plexus Background,Templates,MIT,Spyrex,https://godotengine.org/asset-library/asset/687,https://github.com/SpyrexDE/PlexusBackground
+Plugin Reloader,Tools,MIT,Iceflower,https://godotengine.org/asset-library/asset/3293,https://github.com/kenyoni-software/godot-addons
+Polygon Counter,3D Tools,MIT,SinfulBobcat,https://godotengine.org/asset-library/asset/3794,https://github.com/sinfulbobcat/PolygonCounter
+Polygonizer,2D Tools,MIT,sitiom,https://godotengine.org/asset-library/asset/720,https://github.com/sitiom/Polygonizer-cs-addon
+Polygonizer,2D Tools,MIT,timoschwarzer,https://godotengine.org/asset-library/asset/75,https://github.com/timoschwarzer/polygonizer-gd-addon
+Pong CS,Demos,MIT,MugenTwo,https://godotengine.org/asset-library/asset/493,https://github.com/MugenTwo/pong-cs
+Pong Multiplayer,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/138,https://github.com/godotengine/godot-demo-projects
+Pong with C#,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/535,https://github.com/godotengine/godot-demo-projects
+Pong with GDScript,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/121,https://github.com/godotengine/godot-demo-projects
+Pong with VisualScript,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/136,https://github.com/godotengine/godot-demo-projects
+Pong-based game template,Templates,MIT,Senopiece,https://godotengine.org/asset-library/asset/612,https://github.com/Senopiece/SaveTheBall
+Previewer_2D_3D,Tools,MIT,Amealky,https://godotengine.org/asset-library/asset/2543,https://github.com/Amealky/Previewer_2D_3D
+ProCam2D - Godot 3.x,2D Tools,MIT,kalulu_games,https://godotengine.org/asset-library/asset/3072,https://github.com/daz-b-like/ProCam2D_Godot3.x
+ProCam2D - Godot 4.x,2D Tools,MIT,kalulu_games,https://godotengine.org/asset-library/asset/3071,https://github.com/daz-b-like/ProCam2D_Godot4.x
+Procedural Saver/Loader,Tools,Apache-2.0,Charlie W,https://godotengine.org/asset-library/asset/439,https://github.com/ivoyager/procedural_saver_loader
+Procedural-Map-Generator,2D Tools,MIT,mihalysarolta-ubb,https://godotengine.org/asset-library/asset/2979,https://github.com/SaroltaMihaly/Procedural-Map-Generator
+Prototype CSGs,3D Tools,CC0,Manonox,https://godotengine.org/asset-library/asset/3153,https://github.com/Manonox/godot-proto-csgs
+PythonScript,Scripts,MIT,touilleMan,https://godotengine.org/asset-library/asset/179,https://github.com/touilleMan/godot-python-assetlib-repo
+PythonScript-Pypy,Scripts,MIT,touilleMan,https://godotengine.org/asset-library/asset/192,https://github.com/touilleMan/godot-python-assetlib-repo
+QoL Camera,3D Tools,MIT,necauqua,https://godotengine.org/asset-library/asset/738,https://github.com/necauqua/godot-qol-camera
+QR Code,2D Tools,MIT,Iceflower,https://godotengine.org/asset-library/asset/2090,https://github.com/kenyoni-software/godot-addons
+Quick Script Change,Tools,MIT,disablak,https://godotengine.org/asset-library/asset/1622,https://github.com/Disablak/quick_script_change
+QuickSettings,Tools,MIT,jmb462,https://godotengine.org/asset-library/asset/1222,https://github.com/jmb462/GodotQuickSettings
+QuickSettings,Tools,MIT,jmb462,https://godotengine.org/asset-library/asset/1223,https://github.com/jmb462/GodotQuickSettings
+Quiver Analytics,Misc,MIT,amitQ,https://godotengine.org/asset-library/asset/2614,https://github.com/quiver-dev/quiver-analytics-godot-plugin
+Quiver Leaderboards,Misc,MIT,amitQ,https://godotengine.org/asset-library/asset/2659,https://github.com/quiver-dev/quiver-leaderboards-godot-plugin
+Quiver Player Accounts,Misc,MIT,amitQ,https://godotengine.org/asset-library/asset/2650,https://github.com/quiver-dev/quiver-player-accounts-godot-plugin
+QuizNodes,Tools,MIT,MatiasVME,https://godotengine.org/asset-library/asset/205,https://github.com/MatiasVME/QuizNodes
+Racing Cameras,3D Tools,MIT,skaruts,https://godotengine.org/asset-library/asset/3242,https://github.com/Skaruts/racing_cameras
+Radial Menu Control,2D Tools,MIT,Jesuisse,https://godotengine.org/asset-library/asset/3469,https://github.com/jesuisse/godot-radial-menu-control
+Random Tiles Map Generator,Templates,MIT,portella0,https://godotengine.org/asset-library/asset/396,https://github.com/portella0/TilemapGodot
+Recorder,Tools,MIT,henriquelalves,https://godotengine.org/asset-library/asset/220,https://github.com/henriquelalves/GodotRecorder
+RegEx (Regular Expressions) Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/149,https://github.com/godotengine/godot-demo-projects
+Remote port on Toolbar,Misc,MIT,spastic,https://godotengine.org/asset-library/asset/641,https://github.com/tanjunior/Remote-Port-on-Toolbar
+Remove Orphan UID,Tools,MIT,Iceflower,https://godotengine.org/asset-library/asset/3772,https://github.com/kenyoni-software/godot-addons
+Rhubarb Lip Sync Third Party Integration,2D Tools,MIT,AniMesuro,https://godotengine.org/asset-library/asset/659,https://github.com/AniMesuro/rhubarb-lipsync-tp-integration-godot
+RigidBody Auto Scaler,Tools,MIT,hmans,https://godotengine.org/asset-library/asset/1700,https://github.com/hmans/Godot-RigidBody-Auto-Scaler
+Rope,2D Tools,MIT,Vlabo,https://godotengine.org/asset-library/asset/62,https://github.com/vlabo/Godot_rope_addon
+rpc-await,Scripts,MIT,dominiks,https://godotengine.org/asset-library/asset/1746,https://github.com/dominiks/rpc-await
+Runtime Ogg Vorbis GDExtension,Tools,MIT,JTE,https://godotengine.org/asset-library/asset/2393,https://github.com/Yukitty/godot-runtime-ogg-vorbis
+SAV Debug Console,Tools,MIT,CraigLubitz,https://godotengine.org/asset-library/asset/3053,https://github.com/CraigLubitz/SAVDebugConsole-GODOT
+SaveNode,Tools,MIT,Runner,https://godotengine.org/asset-library/asset/1153,https://github.com/RunnerLord/SaveNode
+Scene scattering tool,3D Tools,MIT,Zylann,https://godotengine.org/asset-library/asset/380,https://github.com/Zylann/godot_scatter_plugin
+Scene Tree Folders,Tools,MIT,TheGrandJaggard,https://godotengine.org/asset-library/asset/4084,https://github.com/nathan-coleman/godot_scene_tree_folders
+SceneTexture - Scene Thumbnail and Icon Generation,Tools,MIT,ydeltastar,https://godotengine.org/asset-library/asset/3506,https://github.com/ydeltastar/godot-scene-texture
+SCML importer,Tools,MIT,wojciechm,https://godotengine.org/asset-library/asset/1742,https://github.com/wojtossfm/godot_scml_importer
+SCML importer,Tools,MIT,wojciechm,https://godotengine.org/asset-library/asset/448,https://github.com/wojtossfm/godot_scml_importer
+Screen Capture Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/130,https://github.com/godotengine/godot-demo-projects
+ScreenDebugger,Scripts,MIT,nonunknown,https://godotengine.org/asset-library/asset/564,https://github.com/nonunknown/screen-debugger
+Script Editor Docker,Tools,Unlicense,Cyber-Kun,https://godotengine.org/asset-library/asset/1796,https://github.com/CyberGh0st-droid/Godot-4.0-Text-Editor-Docker
+Script Name On Top,Tools,MIT,rainlizard,https://godotengine.org/asset-library/asset/1530,https://github.com/rainlizard/ScriptNameOnTop
+ScriptWriter,Scripts,MIT,ACB_Gamez,https://godotengine.org/asset-library/asset/1411,https://github.com/ACB-prgm/ScriptWriter-Plugin
+SDF Font Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/521,https://github.com/godotengine/godot-demo-projects
+Search In Files Bar (SIFB),Tools,MIT,yonodusk,https://godotengine.org/asset-library/asset/3755,https://github.com/Joseph22Jct/SIFB-Search-In-File-Bar
+Selection Tools,Scripts,GPLv3,mohammedzero43,https://godotengine.org/asset-library/asset/811,https://github.com/mohammedzero43/Selection-Tools-Godot
+Settings Manager,Tools,MIT,seimaaku,https://godotengine.org/asset-library/asset/3963,https://github.com/seimaaku/GodotSettingsManager
+Shader for Transparent Water with Screen Space Reflections and Refraction,Shaders,MIT,marcelb,https://godotengine.org/asset-library/asset/2152,https://github.com/marcelb/GodotSSRWater
+Shader Precompiler,Tools,MIT,CrushingJosch,https://godotengine.org/asset-library/asset/977,https://github.com/Brandt-J/ShaderPrecompiler
+Simple Audio Manager,Misc,MIT,symbol24,https://godotengine.org/asset-library/asset/3276,https://github.com/symbol24/audio-by-symbol24
+Simple Character 3D,3D Tools,MIT,orial021,https://godotengine.org/asset-library/asset/3633,https://github.com/orial021/character3D
+Simple Color Template Editor,Tools,MIT,DavidKBD,https://godotengine.org/asset-library/asset/776,https://github.com/davidkbd/Godot_SimpleColorTemplateEditor
+Simple Concept Template: 2D Top-Down-Shooter,Templates,MIT,BosenCheng,https://godotengine.org/asset-library/asset/2460,https://github.com/Unchained112/SimpleTopDownShooterTemplate2D
+Simple Concept Template: Main Menu,Templates,MIT,BosenCheng,https://godotengine.org/asset-library/asset/2578,https://github.com/Unchained112/SimpleTemplateMainMenu
+Simple CRT Shader,2D Tools,MIT,henriquelalves,https://godotengine.org/asset-library/asset/38,https://github.com/henriquelalves/SimpleGodotCRTShader
+Simple Free-Look Camera,Scripts,MIT,aloivmada,https://godotengine.org/asset-library/asset/701,https://github.com/adamviola/simple-free-look-camera
+Simple Free-Look Camera for Godot 4,Scripts,MIT,AlanRichard,https://godotengine.org/asset-library/asset/1561,https://github.com/richardhyy/simple-free-look-camera-4
+Simple Normal Ocean,Shaders,MIT,creikey,https://godotengine.org/asset-library/asset/402,https://github.com/creikey/simple-normal-ocean
+Simple Online Multiplayer Networking,Templates,MIT,Linko,https://godotengine.org/asset-library/asset/755,https://github.com/Linko-3D/Godot-Simple-Online-Multiplayer-Networking
+simple random position generator,Scripts,MIT,mo,https://godotengine.org/asset-library/asset/3468,https://github.com/mohamadbagherblack/simple-random-position-generator
+Simple Scene Manager,Tools,MIT,symbol24,https://godotengine.org/asset-library/asset/3287,https://github.com/symbol24/Simple-Scene-Manager
+Simple Skybox,3D Tools,MIT,Chaosus,https://godotengine.org/asset-library/asset/165,https://github.com/Chaosus/GDSimpleSkybox
+Simple Test Harness,Tools,Apache-2.0,Aendawyn,https://godotengine.org/asset-library/asset/1675,https://github.com/AdrienQuillet/godot-simple-test-harness
+Simple-First-Person-Controller,Scripts,MIT,Linko,https://godotengine.org/asset-library/asset/3882,https://github.com/Linko-3D/Godot-Simple-First-Person-Controller
+SimpleBoards: Free Leaderboard Service,Tools,MIT,simpleboards,https://godotengine.org/asset-library/asset/3571,https://github.com/isetr/simpleboards_godot
+SimpleDialogueBox,Misc,MIT,g0zar,https://godotengine.org/asset-library/asset/227,https://github.com/majorendian/SimpleDialogueBox-Godot-3.0
+Singleton Scripts Shortcut,Tools,CC0,rainlizard,https://godotengine.org/asset-library/asset/991,https://github.com/rainlizard/SingletonScriptsShortcut
+Sketchfab,3D Tools,MIT,Sketchfab,https://godotengine.org/asset-library/asset/182,https://github.com/sketchfab/godot-plugin
+Smart Graphics Settings,Tools,MIT,lucasbecker.dev,https://godotengine.org/asset-library/asset/3814,https://github.com/lucasbecker-dev/godot-smart-graphics-settings
+SmoothScroll,Scripts,MIT,Spyrex,https://godotengine.org/asset-library/asset/1399,https://github.com/SpyrexDE/SmoothScroll
+SmoothScroll,Scripts,MIT,Spyrex,https://godotengine.org/asset-library/asset/1017,https://github.com/SpyrexDE/SmoothScroll
+Snake,Projects,MIT,Xydium,https://godotengine.org/asset-library/asset/15,https://github.com/Xydium/AssetLibContributions
+Snappy,3D Tools,MIT,jgillich,https://godotengine.org/asset-library/asset/1357,https://github.com/jgillich/godot-snappy
+Snippets Editor Plugin,Tools,MIT,gswashburn,https://godotengine.org/asset-library/asset/187,https://github.com/gswashburn/Snippets-EditorPlugin
+SoftNoise,Scripts,MIT,perdugames,https://godotengine.org/asset-library/asset/80,https://github.com/PerduGames/SoftNoise-GDScript-
+Sokoban Cube,Demos,MIT,To-Fujita,https://godotengine.org/asset-library/asset/639,https://github.com/To-Fujita/Godot_v3.2-Sokoban_Cube
+SparrowAtlas Editor,Tools,MIT,Pockui,https://godotengine.org/asset-library/asset/1050,https://github.com/Pocku/godot-sparrowatlas-editor
+Spatial Gardener,3D Tools,MIT,dreadpon,https://godotengine.org/asset-library/asset/1375,https://github.com/dreadpon/godot_spatial_gardener
+SPIRV Importer,Shaders,MIT,teamclouday,https://godotengine.org/asset-library/asset/2154,https://github.com/teamclouday/SPIRV-Importer
+Sprite Baker,2D Tools,MIT,DwanaGames,https://godotengine.org/asset-library/asset/370,https://github.com/DwanaG/SpriteBaker
+Sprite Quick Offset,2D Tools,GPLv3,Ken Ichi,https://godotengine.org/asset-library/asset/264,https://github.com/K3nIchi/sprite_quick_offset
+SpritesheetFromFiles,Tools,MIT,DavidKBD,https://godotengine.org/asset-library/asset/789,https://github.com/davidkbd/Godot_SpritesheetFromFiles
+Squiggles Core 4X,Scripts,MIT,QueenOfSquiggles,https://godotengine.org/asset-library/asset/2142,https://github.com/QueenOfSquiggles/Squiggles-Core-4X
+Stair-stepping Demo,Demos,MIT,dwd_waver,https://godotengine.org/asset-library/asset/2481,https://github.com/JheKWall/Godot-Stair-Step-Demo
+Start.io Godot Android Plugin,Scripts,MIT,fernan2cas96,https://godotengine.org/asset-library/asset/3819,https://github.com/fernacas-dev/godot-startio-android-plugin
+State Graph,Tools,MIT,BabaDesBois,https://godotengine.org/asset-library/asset/1355,https://github.com/MrBSmith/StateGraph
+State Machine,Scripts,MIT,ItsMeAlec,https://godotengine.org/asset-library/asset/2505,https://github.com/AlecSouthward/state-machine
+State Machine for Platformer Games,Demos,GPLv3,CesarLeon,https://godotengine.org/asset-library/asset/345,https://github.com/CeesarLeon2002/state-machine-for-platformer-games
+Statechart Sharp: a state machine plugin,Tools,MIT,LGWCP,https://godotengine.org/asset-library/asset/2688,https://github.com/laoguowangCP/godot-statechart-sharp
+Steam Template,Templates,CC0,malco,https://godotengine.org/asset-library/asset/3328,https://github.com/Malcolm-Q/SteamGodotTemplate
+Stopwatch,Tools,MIT,GustavoLR548,https://godotengine.org/asset-library/asset/2407,https://github.com/GuaraProductions/Stopwatch
+Storage Manager,Scripts,MIT,DavidKBD,https://godotengine.org/asset-library/asset/785,https://github.com/davidkbd/Godot_StorageManager
+String utilities,Projects,GPLv3,Mxt08,https://godotengine.org/asset-library/asset/927,https://github.com/mxt08-real/String-utilities
+SuperChart-draggable&zoomable,2D Tools,MIT,DrunkBull,https://godotengine.org/asset-library/asset/1440,https://github.com/DeanNevan/Godot-2D-Super-Chart
+SuperLightning,2D Tools,MIT,DrunkBull,https://godotengine.org/asset-library/asset/1030,https://github.com/DeanNevan/Godot-2D-Super-Lightning
+Switch Manager,Tools,MIT,ItsMeAlec,https://godotengine.org/asset-library/asset/2634,https://github.com/AlecSouthward/Switch-Manager
+TableDB,Scripts,MIT,GeCreator,https://godotengine.org/asset-library/asset/1445,https://github.com/GeCreator/TableDB
+TCG Layout (.NET only),Templates,MIT,Jaete,https://godotengine.org/asset-library/asset/3378,https://github.com/Jaete/TCG-Hand-Layout
+Telegram Bot API,Misc,MIT,fenix,https://godotengine.org/asset-library/asset/1072,https://github.com/fenix-hub/godot-engine.telegram-bot
+Template for Hole.io style games,Templates,MIT,Go3D,https://godotengine.org/asset-library/asset/1014,https://github.com/Go3DGoGodot/Hole.io-made-in-Godot
+Template for pathfinding games,Templates,MIT,xolatgames,https://godotengine.org/asset-library/asset/3262,https://github.com/xolatgames/Pathfinding
+TemplateSaver,Tools,GPLv2,D0RYU,https://godotengine.org/asset-library/asset/2663,https://github.com/D0RYU/TemplateSaver
+Terrain Editor,3D Tools,MIT,Zylann,https://godotengine.org/asset-library/asset/4,https://github.com/Zylann/godot_terrain_plugin
+Texture Progress of Subunits,Misc,MIT,jarlowrey,https://godotengine.org/asset-library/asset/225,https://github.com/JarLowrey/TextureProgressOfSubunits
+TextureButtonColored,2D Tools,MIT,Iceflower,https://godotengine.org/asset-library/asset/2092,https://github.com/kenyoni-software/godot-addons
+"TexturePacker Importer (SpriteSheet, AtlasTexture)",2D Tools,MIT,CodeAndWeb,https://godotengine.org/asset-library/asset/1503,https://github.com/CodeAndWeb/texturepacker-godot-plugin
+"TexturePacker Importer (SpriteSheet, AtlasTexture, TileSet) for Godot 3",2D Tools,MIT,CodeAndWeb,https://godotengine.org/asset-library/asset/169,https://github.com/CodeAndWeb/texturepacker-godot-plugin
+"TexturePacker Importer (SpriteSheet, AtlasTexture, TileSet) for Godot 3.5",2D Tools,MIT,CodeAndWeb,https://godotengine.org/asset-library/asset/2072,https://github.com/CodeAndWeb/texturepacker-godot-plugin
+Third Person Controller,Templates,MIT,waffleawt,https://godotengine.org/asset-library/asset/2268,https://github.com/WaffleAWT/Godot-4.3-Third-Person-Controller
+Third Person Controller,3D Tools,MIT,sombresonge,https://godotengine.org/asset-library/asset/251,https://github.com/Sombresonge/Third-Person-Controller
+TileSetCutter,2D Tools,MIT,G-Rom,https://godotengine.org/asset-library/asset/109,https://github.com/JeromeOrtali/TileSetCutter
+Todo Cards,Tools,MIT,MounirTohami,https://godotengine.org/asset-library/asset/1167,https://github.com/WhalesState/godot-todo-cards
+TODO Manager (Godot 3.x),Tools,MIT,OrigamiPete,https://godotengine.org/asset-library/asset/768,https://github.com/OrigamiDev-Pete/TODO_Manager
+TODO Manager (Godot 4),Tools,MIT,OrigamiPete,https://godotengine.org/asset-library/asset/1327,https://github.com/OrigamiDev-Pete/TODO_Manager
+Toggle Code Generation,Tools,MIT,zaevi,https://godotengine.org/asset-library/asset/679,https://github.com/zaevi/godot-toggle-code-generation
+Tracer,Scripts,GPLv3,wyvernbw,https://godotengine.org/asset-library/asset/2338,https://github.com/wyvernbw/tracer.gd
+Tracery,Scripts,Apache-2.0,Althar93,https://godotengine.org/asset-library/asset/388,https://github.com/Althar93/GDTracery
+TrailMesh,3D Tools,MIT,tcmug,https://godotengine.org/asset-library/asset/2145,https://github.com/tcmug/godot_trailmesh
+Transition Type Demo,Demos,MIT,k2kra,https://godotengine.org/asset-library/asset/872,https://github.com/Ark2000/Trans-Type-Demo
+Translation editor,Tools,MIT,Zylann,https://godotengine.org/asset-library/asset/284,https://github.com/Zylann/godot_translation_editor
+Typed Dictionary NET,Tools,MIT,PattyHoswell,https://godotengine.org/asset-library/asset/2571,https://github.com/PattyHoswell/Godot-NET-Typed-Dictionary
+UI-Expander,Tools,MIT,omid3098,https://godotengine.org/asset-library/asset/2364,https://github.com/omid3098/expander-addon
+UniParticles3D,3D Tools,MIT,danielsnd,https://godotengine.org/asset-library/asset/3741,https://github.com/DanielSnd/UniParticles3D
+unirest gdscript,Scripts,MIT,fenix,https://godotengine.org/asset-library/asset/1413,https://github.com/fenix-hub/unirest-gdscript
+Universal Save/Load System,Scripts,MIT,c64cosmin,https://godotengine.org/asset-library/asset/1655,https://github.com/stupidratstudio/thoth
+Useful Shader Nodes for Godot 4,Shaders,MIT,AbbysalKig,https://godotengine.org/asset-library/asset/1914,https://github.com/ReKylee/Useful-Shader-Nodes-for-Godot-4
+Vehicle Controller 2D,Tools,MIT,Tybobobo,https://godotengine.org/asset-library/asset/71,https://github.com/ivanskodje-godotengine/Vehicle-Controller-2D
+vim-motion,Tools,MIT,wovrik,https://godotengine.org/asset-library/asset/3127,https://github.com/wovri-github/godot-vim-joshnajera
+Visual Behavior Tree,Tools,MIT,fian46,https://godotengine.org/asset-library/asset/725,https://github.com/fian46/addons-btree
+Visual Script Circle Pop Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/137,https://github.com/godotengine/godot-demo-projects
+Visual Script Multitouch View Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/135,https://github.com/godotengine/godot-demo-projects
+Visual Shader Derive Z Node,Shaders,MIT,Foyezes,https://godotengine.org/asset-library/asset/3650,https://github.com/Foyezes/Godot-Derive-Z-Node
+Visual Shader Height Blend Node,Shaders,MIT,Foyezes,https://godotengine.org/asset-library/asset/3649,https://github.com/Foyezes/Godot-HeightBlend-Node
+Visual Shader Normal Combine Node,Shaders,MIT,Foyezes,https://godotengine.org/asset-library/asset/3639,https://github.com/Foyezes/Godot-Normal-Combine-Node
+Visual Shader Normal Strength Node,Shaders,MIT,Foyezes,https://godotengine.org/asset-library/asset/3799,https://github.com/Foyezes/Godot-Normal-Strength-Node
+Visual Shader Parallax Mapping Node,Shaders,MIT,Foyezes,https://godotengine.org/asset-library/asset/3800,https://github.com/Foyezes/Godot-Parallax-Mapping-Node
+Visual Shader Pixel Normal World Node,Shaders,MIT,Foyezes,https://godotengine.org/asset-library/asset/3801,https://github.com/Foyezes/Godot-Pixel-Normal-World-Node
+Visual Shader UV Manipulation Node,Shaders,MIT,Foyezes,https://godotengine.org/asset-library/asset/3648,https://github.com/Foyezes/Godot-UV-Manipulation-Node
+Visual Shader UV Nodes Pack,Shaders,MIT,Foyezes,https://godotengine.org/asset-library/asset/3806,https://github.com/Foyezes/Visual-Shader-UV-Nodes-Pack
+Visual Shader Vector Transform Node,Shaders,MIT,Foyezes,https://godotengine.org/asset-library/asset/3792,https://github.com/Foyezes/Godot-Vector-Transform-Node
+VOID,Demos,GPLv3,dbiton,https://godotengine.org/asset-library/asset/278,https://github.com/dbiton/VOID
+Volume Sliders (Singleton example),Templates,MIT,ManuelZ,https://godotengine.org/asset-library/asset/1363,https://github.com/ManuelArtz/Volume-Sliders-Singleton-example-
+Volumetric Fog,Demos,MIT,Bauxite,https://godotengine.org/asset-library/asset/309,https://github.com/Bauxitedev/volumetric-fog-demo
+VoronoiShatter - Procedurally fracture 3D meshes,3D Tools,MIT,woollyone,https://godotengine.org/asset-library/asset/3918,https://github.com/robertvaradan/voronoishatter
+VoxelOctree,3D Tools,MIT,BraindeadBZH,https://godotengine.org/asset-library/asset/174,https://github.com/BraindeadBZH/VoxelOctreePlugin
+Vpainter,3D Tools,MIT,NX7R,https://godotengine.org/asset-library/asset/1372,https://github.com/nx7r/Vpainter
+VR Tools,3D Tools,MIT,kiselev.sereja,https://godotengine.org/asset-library/asset/839,https://github.com/anunknowperson/godot-vr-tools
+VRM Importer and MToon Shader - Humanoid 3d Avatar Model Format,3D Tools,MIT,V-Sekai,https://godotengine.org/asset-library/asset/964,https://github.com/V-Sekai/godot-vrm
+VRM Importer for 3D Avatars and MToon Shader,3D Tools,MIT,V-Sekai,https://godotengine.org/asset-library/asset/2031,https://github.com/V-Sekai/godot-vrm
+WAD Level Loader,Scripts,MIT,Chaosus,https://godotengine.org/asset-library/asset/95,https://github.com/Chaosus/GDWADLevelLoader
+WAT - Unit Testing Framework,Tools,MIT,CodeDariganIE,https://godotengine.org/asset-library/asset/351,https://github.com/CodeDarigan/WAT
+WAT Unit Testing Framework,Tools,MIT,CodeDariganIE,https://godotengine.org/asset-library/asset/495,https://github.com/AlexDarigan/WAT
+WAT Unit Testing Framework (For Godot Mono),Tools,MIT,CodeDariganIE,https://godotengine.org/asset-library/asset/948,https://github.com/AlexDarigan/WAT
+Water shader,Shaders,GPLv3,faculezcano,https://godotengine.org/asset-library/asset/321,https://github.com/faculezcano/godot-water-shader
+WebRTC Minimal Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/536,https://github.com/godotengine/godot-demo-projects
+WebRTC Signaling Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/537,https://github.com/godotengine/godot-demo-projects
+WebSocket Chat Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/538,https://github.com/godotengine/godot-demo-projects
+WebSocket Minimal Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/539,https://github.com/godotengine/godot-demo-projects
+Websocket Multiplayer Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/540,https://github.com/godotengine/godot-demo-projects
+Weeping Angel Example,Demos,CC0,Bypell,https://godotengine.org/asset-library/asset/2408,https://github.com/bypell/weeping-angel-godot
+Window Management Demo,Demos,MIT,Godot Engine,https://godotengine.org/asset-library/asset/145,https://github.com/godotengine/godot-demo-projects
+WindowsV2,Misc,MIT,ecadz,https://godotengine.org/asset-library/asset/3870,https://github.com/brb-fr/windows-v2
+WIP 0.5 - Abstract State Machine Graphic (ASM),Tools,MIT,nonunknown,https://godotengine.org/asset-library/asset/566,https://github.com/nonunknown/abstract-state-machine
+World of Alpheratz (Platformer Demo),Demos,MIT,k2kra,https://godotengine.org/asset-library/asset/1874,https://github.com/Ark2000/world_of_alpheratz
+xBRZ Screen-Filter,Shaders,CC0,LanzaSchneider,https://godotengine.org/asset-library/asset/853,https://github.com/LanzaSchneider/godot-xBRZ
+XMLReader,Tools,MIT,ACB_Gamez,https://godotengine.org/asset-library/asset/1563,https://github.com/ACB-prgm/XMLReader
+Xsolla SDK,Scripts,BSD-3-Clause,spaceship,https://godotengine.org/asset-library/asset/2662,https://github.com/godot279/XsollaSDK
+Yamms - Yet another MultiMesh Scatter,3D Tools,MIT,Mattiny,https://godotengine.org/asset-library/asset/1736,https://github.com/Mattiny/yamms
+YouTube Sub Counter,Tools,MIT,Jesper,https://godotengine.org/asset-library/asset/928,https://github.com/takelime/Godot-YouTube-API
+YouTube's button effect,Templates,MIT,Spyrex,https://godotengine.org/asset-library/asset/929,https://github.com/SpyrexDE/YoutubeButtonEffect
+Zalance SDK,Tools,MIT,Zalance,https://godotengine.org/asset-library/asset/2972,https://github.com/ZalanceInc/zalance-godot-sdk
+Zone Area2D Editor,2D Tools,MIT,xPheRe,https://godotengine.org/asset-library/asset/282,https://github.com/xphere/godot-zone
+Zoomy,2D Tools,MIT,nobuyuki,https://godotengine.org/asset-library/asset/186,https://github.com/nobuyukinyuu/zoomy
+[DEPRECATED] Blockchain SDK by Enjin [DEPRECATED],Tools,Apache-2.0,Enjin,https://godotengine.org/asset-library/asset/607,https://github.com/enjin/enjin-godot-sdk
